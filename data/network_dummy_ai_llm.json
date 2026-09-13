@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    { "id": "n1", "name": "North Junction", "lat": 40.7, "lon": -74.0, "type": "junction", "population_weight": 100 },
+    { "id": "n2", "name": "Central Bridge", "lat": 40.71, "lon": -74.01, "type": "bridge", "population_weight": 50 },
+    { "id": "n3", "name": "City Hospital", "lat": 40.72, "lon": -74.02, "type": "hospital", "population_weight": 500 },
+    { "id": "n4", "name": "East Depot", "lat": 40.7, "lon": -73.99, "type": "depot", "population_weight": 200 }
+  ],
+  "edges": [
+    { "id": "e1", "from_node": "n1", "to_node": "n2", "weight": 1.0, "type": "road", "capacity": 10 },
+    { "id": "e2", "from_node": "n2", "to_node": "n3", "weight": 1.2, "type": "bridge", "capacity": 5 },
+    { "id": "e3", "from_node": "n1", "to_node": "n4", "weight": 0.8, "type": "road", "capacity": 10 },
+    { "id": "e4", "from_node": "n4", "to_node": "n2", "weight": 1.1, "type": "road", "capacity": 5 }
+  ]
+}
