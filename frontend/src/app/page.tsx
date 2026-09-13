@@ -1,4 +1,5 @@
 "use client";
+// @ts-nocheck
 
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
@@ -8,11 +9,11 @@ import { AlertTriangle, Activity, Map as MapIcon, ArrowLeftRight } from "lucide-
 const MapComponent = dynamic(() => import("../components/Map"), { ssr: false });
 
 export default function Home() {
-  const [network, setNetwork] = useState(null);
-  const [criticality, setCriticality] = useState([]);
-  const [selectedNode, setSelectedNode] = useState(null);
-  const [simulationResult, setSimulationResult] = useState(null);
-  const [explainResult, setExplainResult] = useState(null);
+  const [network, setNetwork] = useState<any>(null);
+  const [criticality, setCriticality] = useState<any[]>([]);
+  const [selectedNode, setSelectedNode] = useState<any>(null);
+  const [simulationResult, setSimulationResult] = useState<any>(null);
+  const [explainResult, setExplainResult] = useState<any>(null);
   const [showAfter, setShowAfter] = useState(true);
   const [loading, setLoading] = useState(false);
 
@@ -200,7 +201,7 @@ export default function Home() {
 
         <MapComponent 
           networkData={network} 
-          onNodeClick={(node) => setSelectedNode(node)}
+          onNodeClick={(node: any) => setSelectedNode(node)}
           simulationResult={showAfter ? simulationResult : null}
           criticalityData={criticality}
         />

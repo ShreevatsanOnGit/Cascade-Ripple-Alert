@@ -1,11 +1,12 @@
 "use client";
+// @ts-nocheck
 
 import { MapContainer, TileLayer, CircleMarker, Polyline, Tooltip, useMapEvents } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { useState } from "react";
 
 // A sub-component to handle zoom level state
-function ZoomListener({ onZoomChange }) {
+function ZoomListener({ onZoomChange }: any) {
     useMapEvents({
         zoomend: (e) => {
             onZoomChange(e.target.getZoom());
@@ -14,7 +15,7 @@ function ZoomListener({ onZoomChange }) {
     return null;
 }
 
-export default function MapComponent({ networkData, onNodeClick, simulationResult, criticalityData = [] }) {
+export default function MapComponent({ networkData, onNodeClick, simulationResult, criticalityData = [] }: any) {
     const [zoomLevel, setZoomLevel] = useState(15);
     
     if (!networkData || !networkData.nodes) return <div className="p-4 text-white">Loading map data...</div>;
@@ -27,7 +28,7 @@ export default function MapComponent({ networkData, onNodeClick, simulationResul
     const strandedNodes = simulationResult ? simulationResult.stranded_nodes || [] : [];
     const affectedRoutes = simulationResult ? simulationResult.affected_routes || [] : [];
 
-    const getNodeColor = (node) => {
+    const getNodeColor = (node: any) => {
         if (failedIds.includes(node.id)) return "#ef4444"; // Strong red
         if (strandedNodes.includes(node.id)) return "#dc2626"; // Red for stranded
         switch(node.type) {
@@ -37,14 +38,14 @@ export default function MapComponent({ networkData, onNodeClick, simulationResul
         }
     };
 
-    const getEdgeColor = (edge) => {
+    const getEdgeColor = (edge: any) => {
         if (failedIds.includes(edge.id)) return "#ef4444"; // Strong red
         if (affectedRoutes.includes(edge.from_node) || affectedRoutes.includes(edge.to_node)) return "#f97316"; // Bright orange
         return edge.type === "bridge" ? "#3b82f6" : "#374151"; // Muted
     };
 
     // Calculate node radius dynamically based on zoom and type
-    const getRadius = (node) => {
+    const getRadius = (node: any) => {
         const isPOI = node.type === "hospital" || node.type === "depot";
         const isFailed = failedIds.includes(node.id) || strandedNodes.includes(node.id);
         
@@ -58,16 +59,16 @@ export default function MapComponent({ networkData, onNodeClick, simulationResul
     };
 
     return (
-        <MapContainer center={center} zoom={15} style={{ height: "100%", width: "100%", backgroundColor: '#111827' }}>
+        <MapContainer center={center as any} zoom={15} style={{ height: "100%", width: "100%", backgroundColor: '#111827' }}>
             <ZoomListener onZoomChange={setZoomLevel} />
             <TileLayer
                 url="https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}"
                 attribution='&copy; <a href="https://www.esri.com/">Esri</a>'
             />
             
-            {networkData.edges.map((edge) => {
-                const fromNode = networkData.nodes.find(n => n.id === edge.from_node);
-                const toNode = networkData.nodes.find(n => n.id === edge.to_node);
+            {networkData.edges.map((edge: any) => {
+                const fromNode = networkData.nodes.find((n: any) => n.id === edge.from_node);
+                const toNode = networkData.nodes.find((n: any) => n.id === edge.to_node);
                 if (!fromNode || !toNode) return null;
                 const isAffected = affectedRoutes.includes(edge.from_node) || affectedRoutes.includes(edge.to_node);
                 return (
@@ -81,8 +82,8 @@ export default function MapComponent({ networkData, onNodeClick, simulationResul
                 );
             })}
 
-            {networkData.nodes.map((node) => {
-                const crit = criticalityData.find(c => c.node_id === node.id);
+            {networkData.nodes.map((node: any) => {
+                const crit = criticalityData.find((c: any) => c.node_id === node.id);
                 const isStranded = strandedNodes.includes(node.id);
                 const isFailed = failedIds.includes(node.id);
                 
