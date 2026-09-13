@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    { "id": "n1", "name": "Central Hub", "lat": 40.7128, "lon": -74.0060, "type": "junction", "population_weight": 500 },
+    { "id": "n2", "name": "North Station", "lat": 40.7200, "lon": -74.0060, "type": "depot", "population_weight": 200 },
+    { "id": "n3", "name": "South Hospital", "lat": 40.7000, "lon": -74.0060, "type": "hospital", "population_weight": 800 },
+    { "id": "n4", "name": "East Bridge", "lat": 40.7128, "lon": -73.9900, "type": "bridge", "population_weight": 100 },
+    { "id": "n5", "name": "West Junction", "lat": 40.7128, "lon": -74.0200, "type": "junction", "population_weight": 300 },
+    { "id": "n6", "name": "NE Depot", "lat": 40.7200, "lon": -73.9900, "type": "depot", "population_weight": 150 },
+    { "id": "n7", "name": "SE Junction", "lat": 40.7000, "lon": -73.9900, "type": "junction", "population_weight": 250 },
+    { "id": "n8", "name": "NW Hospital", "lat": 40.7200, "lon": -74.0200, "type": "hospital", "population_weight": 700 },
+    { "id": "n9", "name": "SW Bridge", "lat": 40.7000, "lon": -74.0200, "type": "bridge", "population_weight": 50 },
+    { "id": "n10", "name": "Far East", "lat": 40.7128, "lon": -73.9700, "type": "junction", "population_weight": 400 }
+  ],
+  "edges": [
+    { "id": "e1", "from_node": "n1", "to_node": "n2", "weight": 2.0, "type": "road", "capacity": 100 },
+    { "id": "e2", "from_node": "n1", "to_node": "n3", "weight": 2.5, "type": "road", "capacity": 120 },
+    { "id": "e3", "from_node": "n1", "to_node": "n4", "weight": 1.5, "type": "bridge", "capacity": 80 },
+    { "id": "e4", "from_node": "n1", "to_node": "n5", "weight": 3.0, "type": "road", "capacity": 200 },
+    { "id": "e5", "from_node": "n2", "to_node": "n6", "weight": 1.0, "type": "road", "capacity": 90 },
+    { "id": "e6", "from_node": "n4", "to_node": "n6", "weight": 1.2, "type": "road", "capacity": 110 },
+    { "id": "e7", "from_node": "n3", "to_node": "n7", "weight": 2.2, "type": "road", "capacity": 130 },
+    { "id": "e8", "from_node": "n4", "to_node": "n7", "weight": 1.8, "type": "road", "capacity": 140 },
+    { "id": "e9", "from_node": "n5", "to_node": "n8", "weight": 4.0, "type": "road", "capacity": 100 },
+    { "id": "e10", "from_node": "n2", "to_node": "n8", "weight": 3.5, "type": "road", "capacity": 150 },
+    { "id": "e11", "from_node": "n5", "to_node": "n9", "weight": 2.8, "type": "bridge", "capacity": 60 },
+    { "id": "e12", "from_node": "n3", "to_node": "n9", "weight": 3.2, "type": "road", "capacity": 70 },
+    { "id": "e13", "from_node": "n4", "to_node": "n10", "weight": 5.0, "type": "road", "capacity": 300 }
+  ]
+}

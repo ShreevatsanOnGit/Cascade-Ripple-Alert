@@ -1,0 +1,4767 @@
+{
+  "nodes": [
+    {
+      "id": "7488743856",
+      "name": "Node_7488743856",
+      "lat": 13.3477531,
+      "lon": 74.7881714,
+      "type": "junction",
+      "population_weight": 26
+    },
+    {
+      "id": "6641211400",
+      "name": "Node_6641211400",
+      "lat": 13.3528308,
+      "lon": 74.7855877,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "7488086024",
+      "name": "Node_7488086024",
+      "lat": 13.3489727,
+      "lon": 74.7889279,
+      "type": "junction",
+      "population_weight": 34
+    },
+    {
+      "id": "6641211402",
+      "name": "Node_6641211402",
+      "lat": 13.3473587,
+      "lon": 74.7929977,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "6641211403",
+      "name": "Node_6641211403",
+      "lat": 13.3476442,
+      "lon": 74.7932971,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "6641211404",
+      "name": "Node_6641211404",
+      "lat": 13.347095,
+      "lon": 74.7931016,
+      "type": "junction",
+      "population_weight": 14
+    },
+    {
+      "id": "7488086025",
+      "name": "Node_7488086025",
+      "lat": 13.3488214,
+      "lon": 74.7885546,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "7488086029",
+      "name": "Node_7488086029",
+      "lat": 13.3496615,
+      "lon": 74.7881308,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "7488086037",
+      "name": "Node_7488086037",
+      "lat": 13.3494634,
+      "lon": 74.7950024,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "7522222102",
+      "name": "Node_7522222102",
+      "lat": 13.358619,
+      "lon": 74.7851803,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "11880288293",
+      "name": "Node_11880288293",
+      "lat": 13.348404,
+      "lon": 74.7823082,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "11254431787",
+      "name": "Node_11254431787",
+      "lat": 13.3517612,
+      "lon": 74.7921988,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "13788911671",
+      "name": "Node_13788911671",
+      "lat": 13.3541927,
+      "lon": 74.7902618,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "13788911672",
+      "name": "Node_13788911672",
+      "lat": 13.3541225,
+      "lon": 74.7901168,
+      "type": "junction",
+      "population_weight": 42
+    },
+    {
+      "id": "13788911679",
+      "name": "Node_13788911679",
+      "lat": 13.3537342,
+      "lon": 74.789438,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "13788911683",
+      "name": "Node_13788911683",
+      "lat": 13.3546516,
+      "lon": 74.7897848,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "7488086083",
+      "name": "Node_7488086083",
+      "lat": 13.3566412,
+      "lon": 74.7888563,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "7488086085",
+      "name": "Node_7488086085",
+      "lat": 13.3561862,
+      "lon": 74.7892812,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "5257582684",
+      "name": "Node_5257582684",
+      "lat": 13.3523427,
+      "lon": 74.787288,
+      "type": "junction",
+      "population_weight": 14
+    },
+    {
+      "id": "7488743786",
+      "name": "Node_7488743786",
+      "lat": 13.3543818,
+      "lon": 74.7852706,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1969594468",
+      "name": "Node_1969594468",
+      "lat": 13.357653,
+      "lon": 74.7874525,
+      "type": "junction",
+      "population_weight": 38
+    },
+    {
+      "id": "7632506985",
+      "name": "Node_7632506985",
+      "lat": 13.3488004,
+      "lon": 74.7936664,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "7632506986",
+      "name": "Node_7632506986",
+      "lat": 13.3486688,
+      "lon": 74.7930707,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1969502318",
+      "name": "Node_1969502318",
+      "lat": 13.3500642,
+      "lon": 74.7926802,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "1969502326",
+      "name": "Node_1969502326",
+      "lat": 13.3470054,
+      "lon": 74.7880781,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "12097556615",
+      "name": "Node_12097556615",
+      "lat": 13.3525318,
+      "lon": 74.7883619,
+      "type": "junction",
+      "population_weight": 25
+    },
+    {
+      "id": "6636785822",
+      "name": "Node_6636785822",
+      "lat": 13.3551644,
+      "lon": 74.7893591,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "6636785823",
+      "name": "Node_6636785823",
+      "lat": 13.3552344,
+      "lon": 74.7893272,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "6636785825",
+      "name": "Node_6636785825",
+      "lat": 13.3558363,
+      "lon": 74.7890332,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "6636785826",
+      "name": "Node_6636785826",
+      "lat": 13.3558074,
+      "lon": 74.7873013,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "6636785827",
+      "name": "Node_6636785827",
+      "lat": 13.3564007,
+      "lon": 74.787583,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "1969594538",
+      "name": "Node_1969594538",
+      "lat": 13.3578968,
+      "lon": 74.7878486,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "6636785835",
+      "name": "Node_6636785835",
+      "lat": 13.355631,
+      "lon": 74.7874678,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "6636785837",
+      "name": "Node_6636785837",
+      "lat": 13.3563466,
+      "lon": 74.7882557,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "6636785838",
+      "name": "Node_6636785838",
+      "lat": 13.3548832,
+      "lon": 74.7855799,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "1969594553",
+      "name": "Node_1969594553",
+      "lat": 13.3529469,
+      "lon": 74.7919837,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "1969594562",
+      "name": "Node_1969594562",
+      "lat": 13.3535818,
+      "lon": 74.7910354,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "1828384972",
+      "name": "Node_1828384972",
+      "lat": 13.3511833,
+      "lon": 74.7859687,
+      "type": "junction",
+      "population_weight": 22
+    },
+    {
+      "id": "1828384974",
+      "name": "Node_1828384974",
+      "lat": 13.3468797,
+      "lon": 74.7825103,
+      "type": "junction",
+      "population_weight": 24
+    },
+    {
+      "id": "5257584857",
+      "name": "Node_5257584857",
+      "lat": 13.3522255,
+      "lon": 74.7864353,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "2901127389",
+      "name": "Node_2901127389",
+      "lat": 13.3464023,
+      "lon": 74.7800464,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "1828384997",
+      "name": "Node_1828384997",
+      "lat": 13.3470867,
+      "lon": 74.7860472,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "7518540309",
+      "name": "Node_7518540309",
+      "lat": 13.3472489,
+      "lon": 74.7800144,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "7518540312",
+      "name": "Node_7518540312",
+      "lat": 13.3468745,
+      "lon": 74.7800167,
+      "type": "junction",
+      "population_weight": 42
+    },
+    {
+      "id": "1828385039",
+      "name": "Node_1828385039",
+      "lat": 13.3456295,
+      "lon": 74.7841557,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "2526392594",
+      "name": "Node_2526392594",
+      "lat": 13.3600674,
+      "lon": 74.7923873,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1828385043",
+      "name": "Node_1828385043",
+      "lat": 13.3474367,
+      "lon": 74.7856159,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "10722599196",
+      "name": "Node_10722599196",
+      "lat": 13.3525541,
+      "lon": 74.7872799,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "13149334414",
+      "name": "Node_13149334414",
+      "lat": 13.3525107,
+      "lon": 74.7848642,
+      "type": "junction",
+      "population_weight": 24
+    },
+    {
+      "id": "7518540318",
+      "name": "Node_7518540318",
+      "lat": 13.3452213,
+      "lon": 74.7811943,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "1828385066",
+      "name": "Node_1828385066",
+      "lat": 13.3439711,
+      "lon": 74.7828112,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1464095021",
+      "name": "Node_1464095021",
+      "lat": 13.3549902,
+      "lon": 74.7956161,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "1828385071",
+      "name": "Node_1828385071",
+      "lat": 13.3470608,
+      "lon": 74.7842093,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "1828385074",
+      "name": "Node_1828385074",
+      "lat": 13.3449463,
+      "lon": 74.7816134,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "7518540321",
+      "name": "Node_7518540321",
+      "lat": 13.3494483,
+      "lon": 74.7826146,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "9971634483",
+      "name": "Node_9971634483",
+      "lat": 13.3546847,
+      "lon": 74.7941983,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "6705477951",
+      "name": "Node_6705477951",
+      "lat": 13.3578225,
+      "lon": 74.7881923,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "6705477954",
+      "name": "Node_6705477954",
+      "lat": 13.3601592,
+      "lon": 74.7879315,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "6705477963",
+      "name": "Node_6705477963",
+      "lat": 13.3578259,
+      "lon": 74.7902122,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "6705477965",
+      "name": "Node_6705477965",
+      "lat": 13.3588136,
+      "lon": 74.7893231,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "1828354385",
+      "name": "MIT Depot (FC)",
+      "lat": 13.3518132,
+      "lon": 74.7921981,
+      "type": "depot",
+      "population_weight": 300
+    },
+    {
+      "id": "7518540325",
+      "name": "Node_7518540325",
+      "lat": 13.3489852,
+      "lon": 74.7827159,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "6705477972",
+      "name": "Node_6705477972",
+      "lat": 13.3594157,
+      "lon": 74.7906413,
+      "type": "junction",
+      "population_weight": 22
+    },
+    {
+      "id": "1828385111",
+      "name": "Node_1828385111",
+      "lat": 13.3452725,
+      "lon": 74.7846209,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "1828385113",
+      "name": "Node_1828385113",
+      "lat": 13.3497232,
+      "lon": 74.7875605,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "6705477976",
+      "name": "Node_6705477976",
+      "lat": 13.358066,
+      "lon": 74.7914886,
+      "type": "junction",
+      "population_weight": 26
+    },
+    {
+      "id": "7488086035",
+      "name": "Node_7488086035",
+      "lat": 13.3490876,
+      "lon": 74.7950614,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "1969502565",
+      "name": "Node_1969502565",
+      "lat": 13.3515432,
+      "lon": 74.7928217,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "1828354407",
+      "name": "Node_1828354407",
+      "lat": 13.3480079,
+      "lon": 74.787462,
+      "type": "junction",
+      "population_weight": 17
+    },
+    {
+      "id": "7488086036",
+      "name": "Node_7488086036",
+      "lat": 13.3494385,
+      "lon": 74.7945463,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "1828354417",
+      "name": "Node_1828354417",
+      "lat": 13.3548752,
+      "lon": 74.7948244,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "1828385150",
+      "name": "Node_1828385150",
+      "lat": 13.343723,
+      "lon": 74.783202,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "1828354437",
+      "name": "Node_1828354437",
+      "lat": 13.3489569,
+      "lon": 74.7877256,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "1828354435",
+      "name": "Node_1828354435",
+      "lat": 13.3496444,
+      "lon": 74.7966509,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "1828354454",
+      "name": "Node_1828354454",
+      "lat": 13.352824,
+      "lon": 74.7959216,
+      "type": "junction",
+      "population_weight": 24
+    },
+    {
+      "id": "1828385174",
+      "name": "Node_1828385174",
+      "lat": 13.3471651,
+      "lon": 74.7833429,
+      "type": "junction",
+      "population_weight": 24
+    },
+    {
+      "id": "1969441183",
+      "name": "Node_1969441183",
+      "lat": 13.357014,
+      "lon": 74.7886521,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "1828354463",
+      "name": "Node_1828354463",
+      "lat": 13.3508797,
+      "lon": 74.7874111,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "1969441189",
+      "name": "Node_1969441189",
+      "lat": 13.3550422,
+      "lon": 74.7896653,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "1828354476",
+      "name": "Node_1828354476",
+      "lat": 13.3474106,
+      "lon": 74.7910635,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "1969441195",
+      "name": "Node_1969441195",
+      "lat": 13.3564686,
+      "lon": 74.788746,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "1969441198",
+      "name": "Node_1969441198",
+      "lat": 13.356698,
+      "lon": 74.7880358,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "1969441199",
+      "name": "Node_1969441199",
+      "lat": 13.3572906,
+      "lon": 74.7884939,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "1969441203",
+      "name": "Node_1969441203",
+      "lat": 13.3576012,
+      "lon": 74.7881747,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "1828354485",
+      "name": "Node_1828354485",
+      "lat": 13.3552761,
+      "lon": 74.7947906,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "1828354486",
+      "name": "Node_1828354486",
+      "lat": 13.3524864,
+      "lon": 74.7968022,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "1969441205",
+      "name": "Node_1969441205",
+      "lat": 13.356192,
+      "lon": 74.7858841,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "1969441210",
+      "name": "Node_1969441210",
+      "lat": 13.3573114,
+      "lon": 74.7876595,
+      "type": "junction",
+      "population_weight": 20
+    },
+    {
+      "id": "1828354497",
+      "name": "Node_1828354497",
+      "lat": 13.3523697,
+      "lon": 74.7922208,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "1828354499",
+      "name": "Node_1828354499",
+      "lat": 13.3485537,
+      "lon": 74.7875847,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "1969441221",
+      "name": "Node_1969441221",
+      "lat": 13.3553935,
+      "lon": 74.7906276,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "1969441225",
+      "name": "Node_1969441225",
+      "lat": 13.3567072,
+      "lon": 74.7864081,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "11789464030",
+      "name": "Node_11789464030",
+      "lat": 13.3539027,
+      "lon": 74.7925729,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "11789464034",
+      "name": "Node_11789464034",
+      "lat": 13.3540394,
+      "lon": 74.7921007,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "11078375922",
+      "name": "Node_11078375922",
+      "lat": 13.3565807,
+      "lon": 74.7883755,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "11877009906",
+      "name": "Node_11877009906",
+      "lat": 13.3559539,
+      "lon": 74.7921948,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "7485370897",
+      "name": "Node_7485370897",
+      "lat": 13.3571529,
+      "lon": 74.794544,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "7485370901",
+      "name": "Node_7485370901",
+      "lat": 13.3526213,
+      "lon": 74.7952277,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "7485370902",
+      "name": "Node_7485370902",
+      "lat": 13.3521505,
+      "lon": 74.7947617,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "1369614871",
+      "name": "Node_1369614871",
+      "lat": 13.3473296,
+      "lon": 74.7923951,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "7488743874",
+      "name": "Node_7488743874",
+      "lat": 13.3556267,
+      "lon": 74.7936934,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "7518540313",
+      "name": "Node_7518540313",
+      "lat": 13.3467075,
+      "lon": 74.7813285,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "3114209830",
+      "name": "Node_3114209830",
+      "lat": 13.3548423,
+      "lon": 74.7946072,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "3114209842",
+      "name": "Node_3114209842",
+      "lat": 13.3465543,
+      "lon": 74.7906552,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "3114209836",
+      "name": "Node_3114209836",
+      "lat": 13.3561053,
+      "lon": 74.7940984,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "3114209847",
+      "name": "Node_3114209847",
+      "lat": 13.3460731,
+      "lon": 74.789411,
+      "type": "junction",
+      "population_weight": 17
+    },
+    {
+      "id": "3114209853",
+      "name": "Node_3114209853",
+      "lat": 13.3470891,
+      "lon": 74.7897491,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "1472168514",
+      "name": "Node_1472168514",
+      "lat": 13.3496617,
+      "lon": 74.7849283,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1472168554",
+      "name": "Node_1472168554",
+      "lat": 13.3535121,
+      "lon": 74.7906383,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1828346480",
+      "name": "Node_1828346480",
+      "lat": 13.3541907,
+      "lon": 74.7958222,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "1969441186",
+      "name": "Node_1969441186",
+      "lat": 13.3564675,
+      "lon": 74.78818,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "6705477974",
+      "name": "Node_6705477974",
+      "lat": 13.3576103,
+      "lon": 74.7909047,
+      "type": "junction",
+      "population_weight": 24
+    },
+    {
+      "id": "1828354391",
+      "name": "Node_1828354391",
+      "lat": 13.3568628,
+      "lon": 74.7932966,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "1828346506",
+      "name": "Node_1828346506",
+      "lat": 13.3532731,
+      "lon": 74.7974712,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "6635281030",
+      "name": "Node_6635281030",
+      "lat": 13.3556833,
+      "lon": 74.785614,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "1969412753",
+      "name": "Node_1969412753",
+      "lat": 13.3569305,
+      "lon": 74.7878904,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "1969412766",
+      "name": "Node_1969412766",
+      "lat": 13.3549726,
+      "lon": 74.7881236,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "1969412768",
+      "name": "Node_1969412768",
+      "lat": 13.3548401,
+      "lon": 74.7860772,
+      "type": "junction",
+      "population_weight": 18
+    },
+    {
+      "id": "1472168618",
+      "name": "Node_1472168618",
+      "lat": 13.3564421,
+      "lon": 74.786689,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "1472168625",
+      "name": "Node_1472168625",
+      "lat": 13.3572619,
+      "lon": 74.7858203,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "1969412786",
+      "name": "Node_1969412786",
+      "lat": 13.3554147,
+      "lon": 74.7856026,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1472168627",
+      "name": "Node_1472168627",
+      "lat": 13.3575426,
+      "lon": 74.7855432,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "1828346551",
+      "name": "Node_1828346551",
+      "lat": 13.3536035,
+      "lon": 74.7958295,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "1969412794",
+      "name": "Node_1969412794",
+      "lat": 13.3577134,
+      "lon": 74.7879843,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1472168640",
+      "name": "Node_1472168640",
+      "lat": 13.3584539,
+      "lon": 74.7862136,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "11939590851",
+      "name": "Node_11939590851",
+      "lat": 13.358534,
+      "lon": 74.7831196,
+      "type": "junction",
+      "population_weight": 21
+    },
+    {
+      "id": "9699515081",
+      "name": "Node_9699515081",
+      "lat": 13.3546744,
+      "lon": 74.7941322,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "1969412818",
+      "name": "Node_1969412818",
+      "lat": 13.3559309,
+      "lon": 74.7871848,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "9699515090",
+      "name": "Node_9699515090",
+      "lat": 13.3531126,
+      "lon": 74.7898468,
+      "type": "junction",
+      "population_weight": 20
+    },
+    {
+      "id": "9699515091",
+      "name": "Node_9699515091",
+      "lat": 13.3524304,
+      "lon": 74.7899981,
+      "type": "junction",
+      "population_weight": 21
+    },
+    {
+      "id": "1969412825",
+      "name": "Node_1969412825",
+      "lat": 13.3561686,
+      "lon": 74.7869543,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "1828346587",
+      "name": "Node_1828346587",
+      "lat": 13.3544019,
+      "lon": 74.7970839,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "2539393754",
+      "name": "Node_2539393754",
+      "lat": 13.3447698,
+      "lon": 74.788947,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1969412832",
+      "name": "Node_1969412832",
+      "lat": 13.3550907,
+      "lon": 74.7858117,
+      "type": "junction",
+      "population_weight": 42
+    },
+    {
+      "id": "9961333478",
+      "name": "Node_9961333478",
+      "lat": 13.3566496,
+      "lon": 74.7913295,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "9961333479",
+      "name": "Node_9961333479",
+      "lat": 13.356658,
+      "lon": 74.7911699,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "9961333480",
+      "name": "Node_9961333480",
+      "lat": 13.3576964,
+      "lon": 74.791296,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "9961333481",
+      "name": "Node_9961333481",
+      "lat": 13.3563425,
+      "lon": 74.7913963,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "9961333482",
+      "name": "Node_9961333482",
+      "lat": 13.3574923,
+      "lon": 74.7841983,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "9961333486",
+      "name": "Node_9961333486",
+      "lat": 13.3567258,
+      "lon": 74.7826496,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "9573044982",
+      "name": "Node_9573044982",
+      "lat": 13.3529283,
+      "lon": 74.7915719,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "10725012227",
+      "name": "Node_10725012227",
+      "lat": 13.3513555,
+      "lon": 74.7860828,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "9573044997",
+      "name": "Node_9573044997",
+      "lat": 13.3517273,
+      "lon": 74.7926353,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "10725012234",
+      "name": "Node_10725012234",
+      "lat": 13.3518434,
+      "lon": 74.7867638,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "10725012233",
+      "name": "Node_10725012233",
+      "lat": 13.3521208,
+      "lon": 74.7872209,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "10725012235",
+      "name": "Node_10725012235",
+      "lat": 13.3518686,
+      "lon": 74.7872755,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "11874149270",
+      "name": "Node_11874149270",
+      "lat": 13.3479896,
+      "lon": 74.7828294,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "1977533218",
+      "name": "Node_1977533218",
+      "lat": 13.3491052,
+      "lon": 74.7856978,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "2539393836",
+      "name": "Node_2539393836",
+      "lat": 13.3452513,
+      "lon": 74.78522,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "12107686701",
+      "name": "Node_12107686701",
+      "lat": 13.3504648,
+      "lon": 74.7867248,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "1369615162",
+      "name": "Node_1369615162",
+      "lat": 13.3528154,
+      "lon": 74.7913958,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "11881950100",
+      "name": "Node_11881950100",
+      "lat": 13.3545619,
+      "lon": 74.7902512,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "11874149281",
+      "name": "Node_11874149281",
+      "lat": 13.3482815,
+      "lon": 74.7824194,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "11881950103",
+      "name": "Node_11881950103",
+      "lat": 13.3530604,
+      "lon": 74.7897134,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "11881950105",
+      "name": "Node_11881950105",
+      "lat": 13.3529589,
+      "lon": 74.7897357,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "11881950106",
+      "name": "Node_11881950106",
+      "lat": 13.3524668,
+      "lon": 74.7884975,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1828703077",
+      "name": "Node_1828703077",
+      "lat": 13.3426723,
+      "lon": 74.790871,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "1369615209",
+      "name": "Node_1369615209",
+      "lat": 13.3519887,
+      "lon": 74.7934165,
+      "type": "junction",
+      "population_weight": 19
+    },
+    {
+      "id": "2539393906",
+      "name": "Node_2539393906",
+      "lat": 13.3458305,
+      "lon": 74.7885436,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1828686716",
+      "name": "Node_1828686716",
+      "lat": 13.3468068,
+      "lon": 74.7919142,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "12953936777",
+      "name": "Node_12953936777",
+      "lat": 13.3505239,
+      "lon": 74.7874682,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "2539393929",
+      "name": "Node_2539393929",
+      "lat": 13.3460402,
+      "lon": 74.785915,
+      "type": "junction",
+      "population_weight": 19
+    },
+    {
+      "id": "13149334413",
+      "name": "Node_13149334413",
+      "lat": 13.3524577,
+      "lon": 74.7851814,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "11881950097",
+      "name": "Node_11881950097",
+      "lat": 13.3539149,
+      "lon": 74.7904155,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "2539393939",
+      "name": "Node_2539393939",
+      "lat": 13.3460909,
+      "lon": 74.7888601,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "1828686741",
+      "name": "Node_1828686741",
+      "lat": 13.3458108,
+      "lon": 74.7902562,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "1828686744",
+      "name": "Node_1828686744",
+      "lat": 13.3450559,
+      "lon": 74.7915031,
+      "type": "junction",
+      "population_weight": 34
+    },
+    {
+      "id": "2539393945",
+      "name": "Node_2539393945",
+      "lat": 13.346319,
+      "lon": 74.7889981,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "1828686746",
+      "name": "Node_1828686746",
+      "lat": 13.3452114,
+      "lon": 74.7911241,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1828686749",
+      "name": "Node_1828686749",
+      "lat": 13.3462738,
+      "lon": 74.7910992,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "2539393950",
+      "name": "Node_2539393950",
+      "lat": 13.3466594,
+      "lon": 74.7884402,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "3114209846",
+      "name": "Node_3114209846",
+      "lat": 13.3473977,
+      "lon": 74.7897336,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "1969412752",
+      "name": "Node_1969412752",
+      "lat": 13.3581231,
+      "lon": 74.7876812,
+      "type": "junction",
+      "population_weight": 42
+    },
+    {
+      "id": "13781148583",
+      "name": "Node_13781148583",
+      "lat": 13.3529045,
+      "lon": 74.7913535,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "1828686763",
+      "name": "Node_1828686763",
+      "lat": 13.3468664,
+      "lon": 74.7924393,
+      "type": "junction",
+      "population_weight": 13
+    },
+    {
+      "id": "3114209849",
+      "name": "Node_3114209849",
+      "lat": 13.346973,
+      "lon": 74.7894531,
+      "type": "junction",
+      "population_weight": 19
+    },
+    {
+      "id": "1464112055",
+      "name": "Node_1464112055",
+      "lat": 13.3529665,
+      "lon": 74.7839043,
+      "type": "junction",
+      "population_weight": 25
+    },
+    {
+      "id": "1828686784",
+      "name": "Node_1828686784",
+      "lat": 13.3468173,
+      "lon": 74.7929663,
+      "type": "junction",
+      "population_weight": 34
+    },
+    {
+      "id": "1828686793",
+      "name": "Node_1828686793",
+      "lat": 13.3464978,
+      "lon": 74.7906276,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "6726032345",
+      "name": "Node_6726032345",
+      "lat": 13.3594563,
+      "lon": 74.7946834,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "6726032346",
+      "name": "Node_6726032346",
+      "lat": 13.3578619,
+      "lon": 74.7945869,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "6726032347",
+      "name": "Node_6726032347",
+      "lat": 13.3575752,
+      "lon": 74.7958743,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "1828686813",
+      "name": "Node_1828686813",
+      "lat": 13.3467451,
+      "lon": 74.791313,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "1828354461",
+      "name": "Node_1828354461",
+      "lat": 13.3567819,
+      "lon": 74.7942702,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "9700506592",
+      "name": "Node_9700506592",
+      "lat": 13.3574281,
+      "lon": 74.785533,
+      "type": "junction",
+      "population_weight": 42
+    },
+    {
+      "id": "9700506593",
+      "name": "Node_9700506593",
+      "lat": 13.3573852,
+      "lon": 74.7852513,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "1828686834",
+      "name": "Node_1828686834",
+      "lat": 13.3469824,
+      "lon": 74.7930434,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "5540961262",
+      "name": "Node_5540961262",
+      "lat": 13.3531062,
+      "lon": 74.7852914,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "3684809725",
+      "name": "Node_3684809725",
+      "lat": 13.3516462,
+      "lon": 74.7927613,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "3684809727",
+      "name": "Node_3684809727",
+      "lat": 13.351857,
+      "lon": 74.7934867,
+      "type": "junction",
+      "population_weight": 17
+    },
+    {
+      "id": "2444991493",
+      "name": "Node_2444991493",
+      "lat": 13.3470191,
+      "lon": 74.7945334,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "2444991496",
+      "name": "Node_2444991496",
+      "lat": 13.3462883,
+      "lon": 74.7983799,
+      "type": "junction",
+      "population_weight": 26
+    },
+    {
+      "id": "1828686856",
+      "name": "Node_1828686856",
+      "lat": 13.3460735,
+      "lon": 74.7915348,
+      "type": "junction",
+      "population_weight": 26
+    },
+    {
+      "id": "1464112150",
+      "name": "Node_1464112150",
+      "lat": 13.3573903,
+      "lon": 74.7844791,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "7489303586",
+      "name": "Node_7489303586",
+      "lat": 13.3571514,
+      "lon": 74.7959894,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "7489303587",
+      "name": "Node_7489303587",
+      "lat": 13.3565272,
+      "lon": 74.7961778,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "7489303588",
+      "name": "Node_7489303588",
+      "lat": 13.3473085,
+      "lon": 74.7913973,
+      "type": "junction",
+      "population_weight": 38
+    },
+    {
+      "id": "1828686888",
+      "name": "Node_1828686888",
+      "lat": 13.3460222,
+      "lon": 74.7936384,
+      "type": "junction",
+      "population_weight": 18
+    },
+    {
+      "id": "2444991530",
+      "name": "Node_2444991530",
+      "lat": 13.347349,
+      "lon": 74.7943871,
+      "type": "junction",
+      "population_weight": 20
+    },
+    {
+      "id": "1828354477",
+      "name": "Node_1828354477",
+      "lat": 13.3567506,
+      "lon": 74.7945197,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "1828354479",
+      "name": "Node_1828354479",
+      "lat": 13.356915,
+      "lon": 74.7927896,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "2444991549",
+      "name": "Node_2444991549",
+      "lat": 13.347421,
+      "lon": 74.7971375,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "12107647995",
+      "name": "Node_12107647995",
+      "lat": 13.3509607,
+      "lon": 74.7873481,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "2444991575",
+      "name": "Node_2444991575",
+      "lat": 13.3459047,
+      "lon": 74.7946568,
+      "type": "junction",
+      "population_weight": 25
+    },
+    {
+      "id": "2444991595",
+      "name": "Node_2444991595",
+      "lat": 13.345983,
+      "lon": 74.7949063,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "10266995823",
+      "name": "Node_10266995823",
+      "lat": 13.3574086,
+      "lon": 74.783428,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "11878206581",
+      "name": "Node_11878206581",
+      "lat": 13.3471454,
+      "lon": 74.7935874,
+      "type": "junction",
+      "population_weight": 31
+    },
+    {
+      "id": "11187121300",
+      "name": "Node_11187121300",
+      "lat": 13.3509454,
+      "lon": 74.7881578,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "11187121299",
+      "name": "Node_11187121299",
+      "lat": 13.3509717,
+      "lon": 74.7874117,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "10129706135",
+      "name": "Node_10129706135",
+      "lat": 13.3474414,
+      "lon": 74.7835663,
+      "type": "junction",
+      "population_weight": 25
+    },
+    {
+      "id": "10129706138",
+      "name": "Node_10129706138",
+      "lat": 13.347529,
+      "lon": 74.7837279,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "9981234349",
+      "name": "Node_9981234349",
+      "lat": 13.3485061,
+      "lon": 74.7811159,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "9981234350",
+      "name": "Node_9981234350",
+      "lat": 13.3473269,
+      "lon": 74.7811003,
+      "type": "junction",
+      "population_weight": 40
+    },
+    {
+      "id": "11878206653",
+      "name": "Node_11878206653",
+      "lat": 13.3558896,
+      "lon": 74.7892774,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "12984983337",
+      "name": "Node_12984983337",
+      "lat": 13.355187,
+      "lon": 74.7843572,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "10156270808",
+      "name": "Node_10156270808",
+      "lat": 13.3532104,
+      "lon": 74.7851439,
+      "type": "junction",
+      "population_weight": 18
+    },
+    {
+      "id": "10156270806",
+      "name": "KMC Hospital",
+      "lat": 13.3528576,
+      "lon": 74.7849236,
+      "type": "hospital",
+      "population_weight": 500
+    },
+    {
+      "id": "11243459809",
+      "name": "Node_11243459809",
+      "lat": 13.34796,
+      "lon": 74.7873979,
+      "type": "junction",
+      "population_weight": 19
+    },
+    {
+      "id": "11166375154",
+      "name": "Node_11166375154",
+      "lat": 13.3471151,
+      "lon": 74.7812966,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "11166375159",
+      "name": "Node_11166375159",
+      "lat": 13.3503409,
+      "lon": 74.784945,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "11878206714",
+      "name": "Node_11878206714",
+      "lat": 13.3470284,
+      "lon": 74.7934261,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "13353278758",
+      "name": "Node_13353278758",
+      "lat": 13.3482428,
+      "lon": 74.7811124,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "13353278759",
+      "name": "Node_13353278759",
+      "lat": 13.34825,
+      "lon": 74.7815097,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "6761272663",
+      "name": "Node_6761272663",
+      "lat": 13.3512485,
+      "lon": 74.7964916,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "11052633482",
+      "name": "Node_11052633482",
+      "lat": 13.3513153,
+      "lon": 74.7880114,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "1969485195",
+      "name": "Node_1969485195",
+      "lat": 13.3457167,
+      "lon": 74.7970395,
+      "type": "junction",
+      "population_weight": 45
+    },
+    {
+      "id": "11052633498",
+      "name": "Node_11052633498",
+      "lat": 13.3520055,
+      "lon": 74.7887659,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "11438499241",
+      "name": "Node_11438499241",
+      "lat": 13.3455085,
+      "lon": 74.7907343,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "11188043313",
+      "name": "Node_11188043313",
+      "lat": 13.3488197,
+      "lon": 74.7854983,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "11235669562",
+      "name": "Node_11235669562",
+      "lat": 13.3493181,
+      "lon": 74.7861349,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "11188043324",
+      "name": "Node_11188043324",
+      "lat": 13.3469895,
+      "lon": 74.7879538,
+      "type": "junction",
+      "population_weight": 14
+    },
+    {
+      "id": "11188043326",
+      "name": "Node_11188043326",
+      "lat": 13.3465826,
+      "lon": 74.7883886,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "11188043328",
+      "name": "Node_11188043328",
+      "lat": 13.3462384,
+      "lon": 74.7889476,
+      "type": "junction",
+      "population_weight": 18
+    },
+    {
+      "id": "9990383180",
+      "name": "Node_9990383180",
+      "lat": 13.3567823,
+      "lon": 74.792581,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "9990383182",
+      "name": "Node_9990383182",
+      "lat": 13.3551214,
+      "lon": 74.7916871,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "9990383179",
+      "name": "Node_9990383179",
+      "lat": 13.3559489,
+      "lon": 74.7927496,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "3114209171",
+      "name": "Node_3114209171",
+      "lat": 13.3543841,
+      "lon": 74.7842812,
+      "type": "junction",
+      "population_weight": 21
+    },
+    {
+      "id": "11881850467",
+      "name": "Node_11881850467",
+      "lat": 13.3530735,
+      "lon": 74.7857028,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "2444971627",
+      "name": "Node_2444971627",
+      "lat": 13.354937,
+      "lon": 74.7958196,
+      "type": "junction",
+      "population_weight": 37
+    },
+    {
+      "id": "2539398770",
+      "name": "Node_2539398770",
+      "lat": 13.3565005,
+      "lon": 74.7954216,
+      "type": "junction",
+      "population_weight": 20
+    },
+    {
+      "id": "11188084343",
+      "name": "Node_11188084343",
+      "lat": 13.3431062,
+      "lon": 74.7906398,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "11188084344",
+      "name": "Node_11188084344",
+      "lat": 13.3430245,
+      "lon": 74.7906989,
+      "type": "junction",
+      "population_weight": 34
+    },
+    {
+      "id": "2539398776",
+      "name": "Node_2539398776",
+      "lat": 13.3565883,
+      "lon": 74.7966357,
+      "type": "junction",
+      "population_weight": 26
+    },
+    {
+      "id": "11188084346",
+      "name": "Node_11188084346",
+      "lat": 13.3484619,
+      "lon": 74.7865449,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "11188084345",
+      "name": "Node_11188084345",
+      "lat": 13.3483851,
+      "lon": 74.7865048,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "4415716993",
+      "name": "Node_4415716993",
+      "lat": 13.3461493,
+      "lon": 74.7834851,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "4462476932",
+      "name": "Node_4462476932",
+      "lat": 13.346589,
+      "lon": 74.7828999,
+      "type": "junction",
+      "population_weight": 22
+    },
+    {
+      "id": "12259204757",
+      "name": "Node_12259204757",
+      "lat": 13.3523434,
+      "lon": 74.7871919,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "10578153117",
+      "name": "Node_10578153117",
+      "lat": 13.3579729,
+      "lon": 74.7830553,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "10578153118",
+      "name": "Node_10578153118",
+      "lat": 13.3578542,
+      "lon": 74.7829934,
+      "type": "junction",
+      "population_weight": 48
+    },
+    {
+      "id": "7568593820",
+      "name": "Node_7568593820",
+      "lat": 13.348447,
+      "lon": 74.782264,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "1464112031",
+      "name": "Node_1464112031",
+      "lat": 13.3586489,
+      "lon": 74.7850727,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "11877088954",
+      "name": "Node_11877088954",
+      "lat": 13.3566399,
+      "lon": 74.7834745,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "9933536956",
+      "name": "Node_9933536956",
+      "lat": 13.3523356,
+      "lon": 74.7862668,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "9933536957",
+      "name": "Node_9933536957",
+      "lat": 13.351985,
+      "lon": 74.7862261,
+      "type": "junction",
+      "population_weight": 47
+    },
+    {
+      "id": "9933536959",
+      "name": "Node_9933536959",
+      "lat": 13.351562,
+      "lon": 74.7855072,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "9933536961",
+      "name": "Node_9933536961",
+      "lat": 13.3514055,
+      "lon": 74.7850964,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "9933536962",
+      "name": "Node_9933536962",
+      "lat": 13.3514754,
+      "lon": 74.7858461,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "10538673886",
+      "name": "Node_10538673886",
+      "lat": 13.3526905,
+      "lon": 74.7868169,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "7488743845",
+      "name": "Node_7488743845",
+      "lat": 13.3474006,
+      "lon": 74.7952863,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "10584112884",
+      "name": "Node_10584112884",
+      "lat": 13.353194,
+      "lon": 74.7821653,
+      "type": "junction",
+      "population_weight": 14
+    },
+    {
+      "id": "10584112885",
+      "name": "Node_10584112885",
+      "lat": 13.3517268,
+      "lon": 74.7823596,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "3779270429",
+      "name": "Node_3779270429",
+      "lat": 13.3525068,
+      "lon": 74.7872633,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "3779270431",
+      "name": "Node_3779270431",
+      "lat": 13.3489111,
+      "lon": 74.7855699,
+      "type": "junction",
+      "population_weight": 41
+    },
+    {
+      "id": "9925943087",
+      "name": "Node_9925943087",
+      "lat": 13.3482966,
+      "lon": 74.7896984,
+      "type": "junction",
+      "population_weight": 17
+    },
+    {
+      "id": "11380760385",
+      "name": "Node_11380760385",
+      "lat": 13.3564059,
+      "lon": 74.7841213,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "11380760389",
+      "name": "Node_11380760389",
+      "lat": 13.3565135,
+      "lon": 74.7832709,
+      "type": "junction",
+      "population_weight": 39
+    },
+    {
+      "id": "1969444692",
+      "name": "Node_1969444692",
+      "lat": 13.3549323,
+      "lon": 74.7882528,
+      "type": "junction",
+      "population_weight": 22
+    },
+    {
+      "id": "1969444693",
+      "name": "Node_1969444693",
+      "lat": 13.3546858,
+      "lon": 74.7900085,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "1464088412",
+      "name": "Node_1464088412",
+      "lat": 13.3493754,
+      "lon": 74.7858498,
+      "type": "junction",
+      "population_weight": 22
+    },
+    {
+      "id": "12953936778",
+      "name": "Node_12953936778",
+      "lat": 13.3505584,
+      "lon": 74.787664,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "11271495538",
+      "name": "Node_11271495538",
+      "lat": 13.3535835,
+      "lon": 74.78544,
+      "type": "junction",
+      "population_weight": 28
+    },
+    {
+      "id": "11271495542",
+      "name": "Node_11271495542",
+      "lat": 13.3528576,
+      "lon": 74.7855663,
+      "type": "junction",
+      "population_weight": 32
+    },
+    {
+      "id": "11271495540",
+      "name": "Node_11271495540",
+      "lat": 13.3530764,
+      "lon": 74.7854043,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "11271495548",
+      "name": "Node_11271495548",
+      "lat": 13.3529736,
+      "lon": 74.7853854,
+      "type": "junction",
+      "population_weight": 38
+    },
+    {
+      "id": "11271495546",
+      "name": "Node_11271495546",
+      "lat": 13.3527584,
+      "lon": 74.7852456,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "1969452927",
+      "name": "Node_1969452927",
+      "lat": 13.3530308,
+      "lon": 74.7852797,
+      "type": "junction",
+      "population_weight": 17
+    },
+    {
+      "id": "3114209153",
+      "name": "Node_3114209153",
+      "lat": 13.3521662,
+      "lon": 74.7865157,
+      "type": "junction",
+      "population_weight": 43
+    },
+    {
+      "id": "3114209154",
+      "name": "Node_3114209154",
+      "lat": 13.3518387,
+      "lon": 74.7813525,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "1969452931",
+      "name": "Node_1969452931",
+      "lat": 13.3523668,
+      "lon": 74.7878824,
+      "type": "junction",
+      "population_weight": 21
+    },
+    {
+      "id": "3114209160",
+      "name": "Node_3114209160",
+      "lat": 13.3516167,
+      "lon": 74.783351,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "1969452939",
+      "name": "Node_1969452939",
+      "lat": 13.354399,
+      "lon": 74.7855593,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "1464088459",
+      "name": "Node_1464088459",
+      "lat": 13.3480119,
+      "lon": 74.7849122,
+      "type": "junction",
+      "population_weight": 29
+    },
+    {
+      "id": "3114209166",
+      "name": "Node_3114209166",
+      "lat": 13.3530489,
+      "lon": 74.7831865,
+      "type": "junction",
+      "population_weight": 16
+    },
+    {
+      "id": "3114209173",
+      "name": "Node_3114209173",
+      "lat": 13.3531411,
+      "lon": 74.7825024,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "3114209177",
+      "name": "Node_3114209177",
+      "lat": 13.3534716,
+      "lon": 74.781906,
+      "type": "junction",
+      "population_weight": 27
+    },
+    {
+      "id": "3114209180",
+      "name": "Node_3114209180",
+      "lat": 13.3543234,
+      "lon": 74.7827062,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "3114209183",
+      "name": "Node_3114209183",
+      "lat": 13.3555192,
+      "lon": 74.7829293,
+      "type": "junction",
+      "population_weight": 33
+    },
+    {
+      "id": "1828385180",
+      "name": "Node_1828385180",
+      "lat": 13.3444829,
+      "lon": 74.7821188,
+      "type": "junction",
+      "population_weight": 30
+    },
+    {
+      "id": "3114209186",
+      "name": "Node_3114209186",
+      "lat": 13.3556043,
+      "lon": 74.7837884,
+      "type": "junction",
+      "population_weight": 36
+    },
+    {
+      "id": "3114209196",
+      "name": "Node_3114209196",
+      "lat": 13.3555842,
+      "lon": 74.782409,
+      "type": "junction",
+      "population_weight": 46
+    },
+    {
+      "id": "3114209205",
+      "name": "Node_3114209205",
+      "lat": 13.3562972,
+      "lon": 74.7909959,
+      "type": "junction",
+      "population_weight": 15
+    },
+    {
+      "id": "13951260604",
+      "name": "Node_13951260604",
+      "lat": 13.3583644,
+      "lon": 74.7854173,
+      "type": "junction",
+      "population_weight": 14
+    },
+    {
+      "id": "3114209213",
+      "name": "Node_3114209213",
+      "lat": 13.3566473,
+      "lon": 74.79226,
+      "type": "junction",
+      "population_weight": 23
+    },
+    {
+      "id": "3114209215",
+      "name": "Node_3114209215",
+      "lat": 13.356383,
+      "lon": 74.7887996,
+      "type": "junction",
+      "population_weight": 25
+    },
+    {
+      "id": "7522222025",
+      "name": "Node_7522222025",
+      "lat": 13.3615456,
+      "lon": 74.782376,
+      "type": "junction",
+      "population_weight": 35
+    },
+    {
+      "id": "7522222034",
+      "name": "Node_7522222034",
+      "lat": 13.3567264,
+      "lon": 74.7811902,
+      "type": "junction",
+      "population_weight": 44
+    },
+    {
+      "id": "7522222039",
+      "name": "Node_7522222039",
+      "lat": 13.3499018,
+      "lon": 74.7834486,
+      "type": "junction",
+      "population_weight": 49
+    },
+    {
+      "id": "7522222040",
+      "name": "Node_7522222040",
+      "lat": 13.3497035,
+      "lon": 74.7840122,
+      "type": "junction",
+      "population_weight": 10
+    },
+    {
+      "id": "7522222041",
+      "name": "Node_7522222041",
+      "lat": 13.3515483,
+      "lon": 74.7841078,
+      "type": "junction",
+      "population_weight": 11
+    },
+    {
+      "id": "7522222042",
+      "name": "Node_7522222042",
+      "lat": 13.3508012,
+      "lon": 74.7840657,
+      "type": "junction",
+      "population_weight": 12
+    },
+    {
+      "id": "7522222043",
+      "name": "Node_7522222043",
+      "lat": 13.3502183,
+      "lon": 74.7841199,
+      "type": "junction",
+      "population_weight": 13
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge_1",
+      "from_node": "7488743856",
+      "to_node": "1828354499",
+      "weight": 109.46,
+      "type": "road"
+    },
+    {
+      "id": "edge_2",
+      "from_node": "6641211400",
+      "to_node": "11271495542",
+      "weight": 3.78,
+      "type": "road"
+    },
+    {
+      "id": "edge_3",
+      "from_node": "6641211400",
+      "to_node": "11881850467",
+      "weight": 29.75,
+      "type": "road"
+    },
+    {
+      "id": "edge_4",
+      "from_node": "6641211400",
+      "to_node": "9933536956",
+      "weight": 91.92,
+      "type": "road"
+    },
+    {
+      "id": "edge_5",
+      "from_node": "7488086024",
+      "to_node": "7488086025",
+      "weight": 43.8,
+      "type": "road"
+    },
+    {
+      "id": "edge_6",
+      "from_node": "7488086024",
+      "to_node": "11187121300",
+      "weight": 238.89000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_7",
+      "from_node": "7488086024",
+      "to_node": "9925943087",
+      "weight": 113.46000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_8",
+      "from_node": "6641211402",
+      "to_node": "1369614871",
+      "weight": 65.85,
+      "type": "road"
+    },
+    {
+      "id": "edge_9",
+      "from_node": "6641211402",
+      "to_node": "6641211404",
+      "weight": 33.519999999999996,
+      "type": "road"
+    },
+    {
+      "id": "edge_10",
+      "from_node": "6641211402",
+      "to_node": "6641211403",
+      "weight": 49.709999999999994,
+      "type": "road"
+    },
+    {
+      "id": "edge_11",
+      "from_node": "6641211403",
+      "to_node": "7632506986",
+      "weight": 116.67000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_12",
+      "from_node": "6641211403",
+      "to_node": "11878206581",
+      "weight": 79.78,
+      "type": "road"
+    },
+    {
+      "id": "edge_13",
+      "from_node": "6641211404",
+      "to_node": "1828686834",
+      "weight": 14.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_14",
+      "from_node": "6641211404",
+      "to_node": "11878206714",
+      "weight": 38.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_15",
+      "from_node": "7488086025",
+      "to_node": "1828354437",
+      "weight": 112.63,
+      "type": "road"
+    },
+    {
+      "id": "edge_16",
+      "from_node": "7488086025",
+      "to_node": "7488086029",
+      "weight": 104.22,
+      "type": "road"
+    },
+    {
+      "id": "edge_17",
+      "from_node": "7488086037",
+      "to_node": "7488086035",
+      "weight": 42.32,
+      "type": "road"
+    },
+    {
+      "id": "edge_18",
+      "from_node": "7488086037",
+      "to_node": "7488086036",
+      "weight": 49.48,
+      "type": "road"
+    },
+    {
+      "id": "edge_19",
+      "from_node": "7488086037",
+      "to_node": "1828354435",
+      "weight": 179.88,
+      "type": "road"
+    },
+    {
+      "id": "edge_20",
+      "from_node": "7488086037",
+      "to_node": "6761272663",
+      "weight": 351.35,
+      "type": "road"
+    },
+    {
+      "id": "edge_21",
+      "from_node": "7522222102",
+      "to_node": "7522222043",
+      "weight": 994.57,
+      "type": "road"
+    },
+    {
+      "id": "edge_22",
+      "from_node": "11880288293",
+      "to_node": "7518540325",
+      "weight": 78.62,
+      "type": "road"
+    },
+    {
+      "id": "edge_23",
+      "from_node": "11254431787",
+      "to_node": "1828354385",
+      "weight": 5.79,
+      "type": "road"
+    },
+    {
+      "id": "edge_24",
+      "from_node": "11254431787",
+      "to_node": "9573044997",
+      "weight": 47.43,
+      "type": "road"
+    },
+    {
+      "id": "edge_25",
+      "from_node": "11254431787",
+      "to_node": "1969502318",
+      "weight": 198.95000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_26",
+      "from_node": "13788911671",
+      "to_node": "11881950097",
+      "weight": 35.12,
+      "type": "road"
+    },
+    {
+      "id": "edge_27",
+      "from_node": "13788911671",
+      "to_node": "13788911672",
+      "weight": 17.54,
+      "type": "road"
+    },
+    {
+      "id": "edge_28",
+      "from_node": "13788911671",
+      "to_node": "1969444693",
+      "weight": 61.37,
+      "type": "road"
+    },
+    {
+      "id": "edge_29",
+      "from_node": "13788911672",
+      "to_node": "13788911679",
+      "weight": 200.27000000000004,
+      "type": "road"
+    },
+    {
+      "id": "edge_30",
+      "from_node": "13788911672",
+      "to_node": "13788911683",
+      "weight": 78.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_31",
+      "from_node": "13788911683",
+      "to_node": "1969444693",
+      "weight": 24.53,
+      "type": "road"
+    },
+    {
+      "id": "edge_32",
+      "from_node": "13788911683",
+      "to_node": "1969444692",
+      "weight": 232.02,
+      "type": "road"
+    },
+    {
+      "id": "edge_33",
+      "from_node": "7488086083",
+      "to_node": "7488086085",
+      "weight": 68.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_34",
+      "from_node": "7488086083",
+      "to_node": "1969441183",
+      "weight": 47.03,
+      "type": "road"
+    },
+    {
+      "id": "edge_35",
+      "from_node": "7488086083",
+      "to_node": "3114209215",
+      "weight": 29.81,
+      "type": "road"
+    },
+    {
+      "id": "edge_36",
+      "from_node": "5257582684",
+      "to_node": "10725012233",
+      "weight": 27.310000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_37",
+      "from_node": "7488743786",
+      "to_node": "1969452939",
+      "weight": 31.939999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_38",
+      "from_node": "7488743786",
+      "to_node": "10156270806",
+      "weight": 256.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_39",
+      "from_node": "7488743786",
+      "to_node": "10156270808",
+      "weight": 134.4,
+      "type": "road"
+    },
+    {
+      "id": "edge_40",
+      "from_node": "1969594468",
+      "to_node": "1969594538",
+      "weight": 50.76,
+      "type": "road"
+    },
+    {
+      "id": "edge_41",
+      "from_node": "1969594468",
+      "to_node": "1969441210",
+      "weight": 44.14,
+      "type": "road"
+    },
+    {
+      "id": "edge_42",
+      "from_node": "1969594468",
+      "to_node": "1472168618",
+      "weight": 160.96,
+      "type": "road"
+    },
+    {
+      "id": "edge_43",
+      "from_node": "1969594468",
+      "to_node": "1969412752",
+      "weight": 78.7,
+      "type": "road"
+    },
+    {
+      "id": "edge_44",
+      "from_node": "7632506985",
+      "to_node": "7632506986",
+      "weight": 66.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_45",
+      "from_node": "7632506986",
+      "to_node": "1969502318",
+      "weight": 161.39,
+      "type": "road"
+    },
+    {
+      "id": "edge_46",
+      "from_node": "1969502318",
+      "to_node": "3684809727",
+      "weight": 277.94000000000005,
+      "type": "road"
+    },
+    {
+      "id": "edge_47",
+      "from_node": "1969502326",
+      "to_node": "11188043324",
+      "weight": 13.58,
+      "type": "road"
+    },
+    {
+      "id": "edge_48",
+      "from_node": "1969502326",
+      "to_node": "2539393950",
+      "weight": 55.26,
+      "type": "road"
+    },
+    {
+      "id": "edge_49",
+      "from_node": "1969502326",
+      "to_node": "1828354407",
+      "weight": 130.25,
+      "type": "road"
+    },
+    {
+      "id": "edge_50",
+      "from_node": "12097556615",
+      "to_node": "11881950105",
+      "weight": 260.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_51",
+      "from_node": "6636785822",
+      "to_node": "6636785823",
+      "weight": 8.52,
+      "type": "road"
+    },
+    {
+      "id": "edge_52",
+      "from_node": "6636785822",
+      "to_node": "1969441189",
+      "weight": 35.980000000000004,
+      "type": "road"
+    },
+    {
+      "id": "edge_53",
+      "from_node": "6636785822",
+      "to_node": "1969444692",
+      "weight": 126.53999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_54",
+      "from_node": "6636785823",
+      "to_node": "6636785825",
+      "weight": 74.19,
+      "type": "road"
+    },
+    {
+      "id": "edge_55",
+      "from_node": "6636785823",
+      "to_node": "11878206653",
+      "weight": 82.05000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_56",
+      "from_node": "6636785826",
+      "to_node": "1969412818",
+      "weight": 18.66,
+      "type": "road"
+    },
+    {
+      "id": "edge_57",
+      "from_node": "6636785826",
+      "to_node": "6636785835",
+      "weight": 26.66,
+      "type": "road"
+    },
+    {
+      "id": "edge_58",
+      "from_node": "6636785826",
+      "to_node": "6636785827",
+      "weight": 89.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_59",
+      "from_node": "1969594538",
+      "to_node": "1969412752",
+      "weight": 31.04,
+      "type": "road"
+    },
+    {
+      "id": "edge_60",
+      "from_node": "1969594538",
+      "to_node": "1969412794",
+      "weight": 25.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_61",
+      "from_node": "6636785835",
+      "to_node": "6636785837",
+      "weight": 116.77,
+      "type": "road"
+    },
+    {
+      "id": "edge_62",
+      "from_node": "6636785835",
+      "to_node": "1969412766",
+      "weight": 102.69999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_63",
+      "from_node": "6636785837",
+      "to_node": "1969441186",
+      "weight": 15.76,
+      "type": "road"
+    },
+    {
+      "id": "edge_64",
+      "from_node": "6636785837",
+      "to_node": "3114209215",
+      "weight": 110.04,
+      "type": "road"
+    },
+    {
+      "id": "edge_65",
+      "from_node": "6636785838",
+      "to_node": "1969412832",
+      "weight": 34.12,
+      "type": "road"
+    },
+    {
+      "id": "edge_66",
+      "from_node": "6636785838",
+      "to_node": "1969412786",
+      "weight": 59.22,
+      "type": "road"
+    },
+    {
+      "id": "edge_67",
+      "from_node": "6636785838",
+      "to_node": "1969452939",
+      "weight": 53.95,
+      "type": "road"
+    },
+    {
+      "id": "edge_68",
+      "from_node": "1969594553",
+      "to_node": "1828354497",
+      "weight": 69.89,
+      "type": "road"
+    },
+    {
+      "id": "edge_69",
+      "from_node": "1969594553",
+      "to_node": "9573044982",
+      "weight": 44.739999999999995,
+      "type": "road"
+    },
+    {
+      "id": "edge_70",
+      "from_node": "1969594553",
+      "to_node": "1369615209",
+      "weight": 288.94,
+      "type": "road"
+    },
+    {
+      "id": "edge_71",
+      "from_node": "1969594562",
+      "to_node": "13781148583",
+      "weight": 82.9,
+      "type": "road"
+    },
+    {
+      "id": "edge_72",
+      "from_node": "1828384972",
+      "to_node": "12107686701",
+      "weight": 114.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_73",
+      "from_node": "1828384974",
+      "to_node": "4462476932",
+      "weight": 53.26,
+      "type": "road"
+    },
+    {
+      "id": "edge_74",
+      "from_node": "5257584857",
+      "to_node": "9933536956",
+      "weight": 21.98,
+      "type": "road"
+    },
+    {
+      "id": "edge_75",
+      "from_node": "5257584857",
+      "to_node": "3114209153",
+      "weight": 10.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_76",
+      "from_node": "5257584857",
+      "to_node": "10722599196",
+      "weight": 104.03000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_77",
+      "from_node": "2901127389",
+      "to_node": "7518540318",
+      "weight": 251.82999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_78",
+      "from_node": "1828384997",
+      "to_node": "1828385043",
+      "weight": 60.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_79",
+      "from_node": "1828384997",
+      "to_node": "11188043324",
+      "weight": 219.34,
+      "type": "road"
+    },
+    {
+      "id": "edge_80",
+      "from_node": "1828384997",
+      "to_node": "1828385111",
+      "weight": 254.29,
+      "type": "road"
+    },
+    {
+      "id": "edge_81",
+      "from_node": "7518540309",
+      "to_node": "11166375154",
+      "weight": 139.68,
+      "type": "road"
+    },
+    {
+      "id": "edge_82",
+      "from_node": "7518540312",
+      "to_node": "7518540313",
+      "weight": 143.3,
+      "type": "road"
+    },
+    {
+      "id": "edge_83",
+      "from_node": "1828385039",
+      "to_node": "1828385111",
+      "weight": 64.17,
+      "type": "road"
+    },
+    {
+      "id": "edge_84",
+      "from_node": "1828385039",
+      "to_node": "1828385066",
+      "weight": 235.14,
+      "type": "road"
+    },
+    {
+      "id": "edge_85",
+      "from_node": "1828385039",
+      "to_node": "1828385043",
+      "weight": 255.95,
+      "type": "road"
+    },
+    {
+      "id": "edge_86",
+      "from_node": "1828385039",
+      "to_node": "4415716993",
+      "weight": 92.90999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_87",
+      "from_node": "2526392594",
+      "to_node": "1828354479",
+      "weight": 354.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_88",
+      "from_node": "1828385043",
+      "to_node": "1464088459",
+      "weight": 99.55,
+      "type": "road"
+    },
+    {
+      "id": "edge_89",
+      "from_node": "10722599196",
+      "to_node": "3779270429",
+      "weight": 5.56,
+      "type": "road"
+    },
+    {
+      "id": "edge_90",
+      "from_node": "10722599196",
+      "to_node": "10538673886",
+      "weight": 68.21,
+      "type": "road"
+    },
+    {
+      "id": "edge_91",
+      "from_node": "13149334414",
+      "to_node": "13149334413",
+      "weight": 34.86,
+      "type": "road"
+    },
+    {
+      "id": "edge_92",
+      "from_node": "1464095021",
+      "to_node": "2539398770",
+      "weight": 169.5,
+      "type": "road"
+    },
+    {
+      "id": "edge_93",
+      "from_node": "1828385071",
+      "to_node": "4415716993",
+      "weight": 128.26,
+      "type": "road"
+    },
+    {
+      "id": "edge_94",
+      "from_node": "1828385071",
+      "to_node": "7522222040",
+      "weight": 296.42,
+      "type": "road"
+    },
+    {
+      "id": "edge_95",
+      "from_node": "1828385071",
+      "to_node": "7522222043",
+      "weight": 352.06,
+      "type": "road"
+    },
+    {
+      "id": "edge_96",
+      "from_node": "1828385074",
+      "to_node": "4462476932",
+      "weight": 229.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_97",
+      "from_node": "7518540321",
+      "to_node": "7518540325",
+      "weight": 52.72,
+      "type": "road"
+    },
+    {
+      "id": "edge_98",
+      "from_node": "9971634483",
+      "to_node": "7485370901",
+      "weight": 306.73,
+      "type": "road"
+    },
+    {
+      "id": "edge_99",
+      "from_node": "6705477951",
+      "to_node": "1969412752",
+      "weight": 84.37,
+      "type": "road"
+    },
+    {
+      "id": "edge_100",
+      "from_node": "6705477954",
+      "to_node": "6705477963",
+      "weight": 579.17,
+      "type": "road"
+    },
+    {
+      "id": "edge_101",
+      "from_node": "6705477965",
+      "to_node": "1969441199",
+      "weight": 297.53,
+      "type": "road"
+    },
+    {
+      "id": "edge_102",
+      "from_node": "1828354385",
+      "to_node": "1828354497",
+      "weight": 62.0,
+      "type": "road"
+    },
+    {
+      "id": "edge_103",
+      "from_node": "7518540325",
+      "to_node": "7568593820",
+      "weight": 77.82,
+      "type": "road"
+    },
+    {
+      "id": "edge_104",
+      "from_node": "6705477972",
+      "to_node": "6705477974",
+      "weight": 205.39000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_105",
+      "from_node": "1828385111",
+      "to_node": "1828385150",
+      "weight": 237.66000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_106",
+      "from_node": "1828385111",
+      "to_node": "2539393836",
+      "weight": 76.21,
+      "type": "road"
+    },
+    {
+      "id": "edge_107",
+      "from_node": "1828385113",
+      "to_node": "1828354437",
+      "weight": 87.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_108",
+      "from_node": "1828385113",
+      "to_node": "12107686701",
+      "weight": 122.71000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_109",
+      "from_node": "1828385113",
+      "to_node": "12953936777",
+      "weight": 89.73,
+      "type": "road"
+    },
+    {
+      "id": "edge_110",
+      "from_node": "6705477976",
+      "to_node": "3114209213",
+      "weight": 244.16000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_111",
+      "from_node": "1969502565",
+      "to_node": "3684809725",
+      "weight": 13.2,
+      "type": "road"
+    },
+    {
+      "id": "edge_112",
+      "from_node": "1828354407",
+      "to_node": "1828354499",
+      "weight": 62.19,
+      "type": "road"
+    },
+    {
+      "id": "edge_113",
+      "from_node": "1828354407",
+      "to_node": "11243459809",
+      "weight": 8.75,
+      "type": "road"
+    },
+    {
+      "id": "edge_114",
+      "from_node": "1828354407",
+      "to_node": "11188084346",
+      "weight": 111.96000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_115",
+      "from_node": "1828354417",
+      "to_node": "1828354485",
+      "weight": 44.78,
+      "type": "road"
+    },
+    {
+      "id": "edge_116",
+      "from_node": "1828354437",
+      "to_node": "1828354499",
+      "weight": 47.41,
+      "type": "road"
+    },
+    {
+      "id": "edge_117",
+      "from_node": "1828354454",
+      "to_node": "7485370901",
+      "weight": 78.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_118",
+      "from_node": "1828354454",
+      "to_node": "1828354486",
+      "weight": 115.56,
+      "type": "road"
+    },
+    {
+      "id": "edge_119",
+      "from_node": "1828354454",
+      "to_node": "1828346551",
+      "weight": 88.03999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_120",
+      "from_node": "1828354454",
+      "to_node": "6761272663",
+      "weight": 186.63,
+      "type": "road"
+    },
+    {
+      "id": "edge_121",
+      "from_node": "1828385174",
+      "to_node": "4462476932",
+      "weight": 80.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_122",
+      "from_node": "1969441183",
+      "to_node": "1969441198",
+      "weight": 75.45,
+      "type": "road"
+    },
+    {
+      "id": "edge_123",
+      "from_node": "1969441183",
+      "to_node": "1969441199",
+      "weight": 35.24,
+      "type": "road"
+    },
+    {
+      "id": "edge_124",
+      "from_node": "1828354463",
+      "to_node": "12107647995",
+      "weight": 11.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_125",
+      "from_node": "1828354463",
+      "to_node": "11187121299",
+      "weight": 10.24,
+      "type": "road"
+    },
+    {
+      "id": "edge_126",
+      "from_node": "1828354463",
+      "to_node": "12953936777",
+      "weight": 40.2,
+      "type": "road"
+    },
+    {
+      "id": "edge_127",
+      "from_node": "1969441189",
+      "to_node": "1969444693",
+      "weight": 55.7,
+      "type": "road"
+    },
+    {
+      "id": "edge_128",
+      "from_node": "1969441189",
+      "to_node": "1969441221",
+      "weight": 126.56,
+      "type": "road"
+    },
+    {
+      "id": "edge_129",
+      "from_node": "1828354476",
+      "to_node": "7489303588",
+      "weight": 37.96,
+      "type": "road"
+    },
+    {
+      "id": "edge_130",
+      "from_node": "1828354476",
+      "to_node": "9925943087",
+      "weight": 178.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_131",
+      "from_node": "1828354476",
+      "to_node": "3114209842",
+      "weight": 105.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_132",
+      "from_node": "1969441195",
+      "to_node": "3114209215",
+      "weight": 11.16,
+      "type": "road"
+    },
+    {
+      "id": "edge_133",
+      "from_node": "1969441198",
+      "to_node": "1969441186",
+      "weight": 30.04,
+      "type": "road"
+    },
+    {
+      "id": "edge_134",
+      "from_node": "1969441198",
+      "to_node": "1969412753",
+      "weight": 30.3,
+      "type": "road"
+    },
+    {
+      "id": "edge_135",
+      "from_node": "1969441199",
+      "to_node": "1969412753",
+      "weight": 76.68,
+      "type": "road"
+    },
+    {
+      "id": "edge_136",
+      "from_node": "1969441203",
+      "to_node": "1969441210",
+      "weight": 64.45,
+      "type": "road"
+    },
+    {
+      "id": "edge_137",
+      "from_node": "1828354485",
+      "to_node": "1828354477",
+      "weight": 172.62,
+      "type": "road"
+    },
+    {
+      "id": "edge_138",
+      "from_node": "1828354485",
+      "to_node": "1828354461",
+      "weight": 185.59999999999997,
+      "type": "road"
+    },
+    {
+      "id": "edge_139",
+      "from_node": "1969441205",
+      "to_node": "1969441225",
+      "weight": 80.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_140",
+      "from_node": "1969441210",
+      "to_node": "1969412753",
+      "weight": 49.23,
+      "type": "road"
+    },
+    {
+      "id": "edge_141",
+      "from_node": "1828354497",
+      "to_node": "9573044997",
+      "weight": 88.32999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_142",
+      "from_node": "1969441221",
+      "to_node": "9990383182",
+      "weight": 179.18,
+      "type": "road"
+    },
+    {
+      "id": "edge_143",
+      "from_node": "1969441221",
+      "to_node": "3114209205",
+      "weight": 153.01999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_144",
+      "from_node": "1969441225",
+      "to_node": "1472168625",
+      "weight": 88.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_145",
+      "from_node": "1969441225",
+      "to_node": "1472168618",
+      "weight": 42.39,
+      "type": "road"
+    },
+    {
+      "id": "edge_146",
+      "from_node": "11789464030",
+      "to_node": "11789464034",
+      "weight": 53.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_147",
+      "from_node": "11078375922",
+      "to_node": "1969441186",
+      "weight": 24.64,
+      "type": "road"
+    },
+    {
+      "id": "edge_148",
+      "from_node": "11877009906",
+      "to_node": "3114209213",
+      "weight": 79.05000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_149",
+      "from_node": "7485370897",
+      "to_node": "1828354477",
+      "weight": 44.86,
+      "type": "road"
+    },
+    {
+      "id": "edge_150",
+      "from_node": "7485370897",
+      "to_node": "6726032346",
+      "weight": 79.06,
+      "type": "road"
+    },
+    {
+      "id": "edge_151",
+      "from_node": "7485370897",
+      "to_node": "2539398770",
+      "weight": 178.59000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_152",
+      "from_node": "7485370901",
+      "to_node": "7485370902",
+      "weight": 95.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_153",
+      "from_node": "1369614871",
+      "to_node": "7489303588",
+      "weight": 108.84,
+      "type": "road"
+    },
+    {
+      "id": "edge_154",
+      "from_node": "1369614871",
+      "to_node": "1369615162",
+      "weight": 626.51,
+      "type": "road"
+    },
+    {
+      "id": "edge_155",
+      "from_node": "7488743874",
+      "to_node": "1828354391",
+      "weight": 149.87,
+      "type": "road"
+    },
+    {
+      "id": "edge_156",
+      "from_node": "3114209830",
+      "to_node": "3114209836",
+      "weight": 153.32,
+      "type": "road"
+    },
+    {
+      "id": "edge_157",
+      "from_node": "3114209842",
+      "to_node": "1828686793",
+      "weight": 6.96,
+      "type": "road"
+    },
+    {
+      "id": "edge_158",
+      "from_node": "3114209842",
+      "to_node": "3114209846",
+      "weight": 175.38,
+      "type": "road"
+    },
+    {
+      "id": "edge_159",
+      "from_node": "3114209847",
+      "to_node": "2539393945",
+      "weight": 52.44,
+      "type": "road"
+    },
+    {
+      "id": "edge_160",
+      "from_node": "3114209847",
+      "to_node": "3114209849",
+      "weight": 100.36,
+      "type": "road"
+    },
+    {
+      "id": "edge_161",
+      "from_node": "3114209847",
+      "to_node": "11188084344",
+      "weight": 402.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_162",
+      "from_node": "3114209853",
+      "to_node": "3114209849",
+      "weight": 49.480000000000004,
+      "type": "road"
+    },
+    {
+      "id": "edge_163",
+      "from_node": "1472168514",
+      "to_node": "7522222043",
+      "weight": 107.27,
+      "type": "road"
+    },
+    {
+      "id": "edge_164",
+      "from_node": "1472168514",
+      "to_node": "1977533218",
+      "weight": 103.89,
+      "type": "road"
+    },
+    {
+      "id": "edge_165",
+      "from_node": "1472168514",
+      "to_node": "11166375159",
+      "weight": 76.06,
+      "type": "road"
+    },
+    {
+      "id": "edge_166",
+      "from_node": "1472168554",
+      "to_node": "11881950097",
+      "weight": 50.92,
+      "type": "road"
+    },
+    {
+      "id": "edge_167",
+      "from_node": "1828346480",
+      "to_node": "1828346551",
+      "weight": 65.38,
+      "type": "road"
+    },
+    {
+      "id": "edge_168",
+      "from_node": "1828346480",
+      "to_node": "1828346587",
+      "weight": 138.67,
+      "type": "road"
+    },
+    {
+      "id": "edge_169",
+      "from_node": "1828346480",
+      "to_node": "2444971627",
+      "weight": 83.1,
+      "type": "road"
+    },
+    {
+      "id": "edge_170",
+      "from_node": "1828354391",
+      "to_node": "1828354461",
+      "weight": 105.87,
+      "type": "road"
+    },
+    {
+      "id": "edge_171",
+      "from_node": "1828354391",
+      "to_node": "1828354479",
+      "weight": 55.42,
+      "type": "road"
+    },
+    {
+      "id": "edge_172",
+      "from_node": "1828346506",
+      "to_node": "1828346551",
+      "weight": 181.66000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_173",
+      "from_node": "6635281030",
+      "to_node": "1969412786",
+      "weight": 29.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_174",
+      "from_node": "6635281030",
+      "to_node": "9700506592",
+      "weight": 195.11,
+      "type": "road"
+    },
+    {
+      "id": "edge_175",
+      "from_node": "6635281030",
+      "to_node": "12984983337",
+      "weight": 323.25999999999993,
+      "type": "road"
+    },
+    {
+      "id": "edge_176",
+      "from_node": "1969412766",
+      "to_node": "1969444692",
+      "weight": 14.7,
+      "type": "road"
+    },
+    {
+      "id": "edge_177",
+      "from_node": "1969412766",
+      "to_node": "10538673886",
+      "weight": 341.13,
+      "type": "road"
+    },
+    {
+      "id": "edge_178",
+      "from_node": "1969412768",
+      "to_node": "1969412818",
+      "weight": 170.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_179",
+      "from_node": "1969412768",
+      "to_node": "1969412832",
+      "weight": 40.06,
+      "type": "road"
+    },
+    {
+      "id": "edge_180",
+      "from_node": "1969412768",
+      "to_node": "1969452939",
+      "weight": 74.88,
+      "type": "road"
+    },
+    {
+      "id": "edge_181",
+      "from_node": "1472168618",
+      "to_node": "1969412825",
+      "weight": 41.86,
+      "type": "road"
+    },
+    {
+      "id": "edge_182",
+      "from_node": "1472168618",
+      "to_node": "1969412786",
+      "weight": 164.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_183",
+      "from_node": "1472168625",
+      "to_node": "1472168640",
+      "weight": 139.36,
+      "type": "road"
+    },
+    {
+      "id": "edge_184",
+      "from_node": "1472168625",
+      "to_node": "1472168627",
+      "weight": 43.33,
+      "type": "road"
+    },
+    {
+      "id": "edge_185",
+      "from_node": "1472168627",
+      "to_node": "9700506592",
+      "weight": 12.79,
+      "type": "road"
+    },
+    {
+      "id": "edge_186",
+      "from_node": "1472168627",
+      "to_node": "13951260604",
+      "weight": 96.43,
+      "type": "road"
+    },
+    {
+      "id": "edge_187",
+      "from_node": "11939590851",
+      "to_node": "10578153117",
+      "weight": 67.02,
+      "type": "road"
+    },
+    {
+      "id": "edge_188",
+      "from_node": "9699515081",
+      "to_node": "1369615209",
+      "weight": 473.84,
+      "type": "road"
+    },
+    {
+      "id": "edge_189",
+      "from_node": "1969412818",
+      "to_node": "1969412825",
+      "weight": 36.38,
+      "type": "road"
+    },
+    {
+      "id": "edge_190",
+      "from_node": "9699515090",
+      "to_node": "9699515091",
+      "weight": 77.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_191",
+      "from_node": "1969412825",
+      "to_node": "1969412832",
+      "weight": 172.38,
+      "type": "road"
+    },
+    {
+      "id": "edge_192",
+      "from_node": "2539393754",
+      "to_node": "2539393939",
+      "weight": 158.62,
+      "type": "road"
+    },
+    {
+      "id": "edge_193",
+      "from_node": "9961333478",
+      "to_node": "9961333479",
+      "weight": 17.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_194",
+      "from_node": "9961333479",
+      "to_node": "9961333480",
+      "weight": 116.4,
+      "type": "road"
+    },
+    {
+      "id": "edge_195",
+      "from_node": "9961333479",
+      "to_node": "3114209205",
+      "weight": 59.78,
+      "type": "road"
+    },
+    {
+      "id": "edge_196",
+      "from_node": "9961333481",
+      "to_node": "3114209205",
+      "weight": 43.66,
+      "type": "road"
+    },
+    {
+      "id": "edge_197",
+      "from_node": "9961333482",
+      "to_node": "1464112150",
+      "weight": 32.46,
+      "type": "road"
+    },
+    {
+      "id": "edge_198",
+      "from_node": "9961333482",
+      "to_node": "10578153117",
+      "weight": 134.87,
+      "type": "road"
+    },
+    {
+      "id": "edge_199",
+      "from_node": "9961333482",
+      "to_node": "11877088954",
+      "weight": 149.09000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_200",
+      "from_node": "9961333486",
+      "to_node": "11877088954",
+      "weight": 89.86,
+      "type": "road"
+    },
+    {
+      "id": "edge_201",
+      "from_node": "9961333486",
+      "to_node": "3114209196",
+      "weight": 129.75,
+      "type": "road"
+    },
+    {
+      "id": "edge_202",
+      "from_node": "9961333486",
+      "to_node": "10578153118",
+      "weight": 131.35,
+      "type": "road"
+    },
+    {
+      "id": "edge_203",
+      "from_node": "9573044982",
+      "to_node": "13781148583",
+      "weight": 23.8,
+      "type": "road"
+    },
+    {
+      "id": "edge_204",
+      "from_node": "9573044982",
+      "to_node": "1369615162",
+      "weight": 22.84,
+      "type": "road"
+    },
+    {
+      "id": "edge_205",
+      "from_node": "10725012227",
+      "to_node": "10725012234",
+      "weight": 99.63,
+      "type": "road"
+    },
+    {
+      "id": "edge_206",
+      "from_node": "9573044997",
+      "to_node": "3684809725",
+      "weight": 16.36,
+      "type": "road"
+    },
+    {
+      "id": "edge_207",
+      "from_node": "10725012234",
+      "to_node": "10725012235",
+      "weight": 55.49,
+      "type": "road"
+    },
+    {
+      "id": "edge_208",
+      "from_node": "10725012234",
+      "to_node": "10725012233",
+      "weight": 63.75,
+      "type": "road"
+    },
+    {
+      "id": "edge_209",
+      "from_node": "10725012233",
+      "to_node": "10725012235",
+      "weight": 28.69,
+      "type": "road"
+    },
+    {
+      "id": "edge_210",
+      "from_node": "10725012233",
+      "to_node": "12259204757",
+      "weight": 27.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_211",
+      "from_node": "10725012235",
+      "to_node": "12107647995",
+      "weight": 102.32,
+      "type": "road"
+    },
+    {
+      "id": "edge_212",
+      "from_node": "10725012235",
+      "to_node": "11187121299",
+      "weight": 102.10000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_213",
+      "from_node": "11874149270",
+      "to_node": "11874149281",
+      "weight": 57.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_214",
+      "from_node": "2539393836",
+      "to_node": "2539393929",
+      "weight": 116.44000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_215",
+      "from_node": "2539393836",
+      "to_node": "11188043326",
+      "weight": 458.15999999999997,
+      "type": "road"
+    },
+    {
+      "id": "edge_216",
+      "from_node": "12107686701",
+      "to_node": "12107647995",
+      "weight": 87.22,
+      "type": "road"
+    },
+    {
+      "id": "edge_217",
+      "from_node": "1369615162",
+      "to_node": "13781148583",
+      "weight": 10.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_218",
+      "from_node": "11881950100",
+      "to_node": "11881950097",
+      "weight": 85.92,
+      "type": "road"
+    },
+    {
+      "id": "edge_219",
+      "from_node": "11881950103",
+      "to_node": "11881950105",
+      "weight": 11.55,
+      "type": "road"
+    },
+    {
+      "id": "edge_220",
+      "from_node": "11881950105",
+      "to_node": "11881950106",
+      "weight": 144.87,
+      "type": "road"
+    },
+    {
+      "id": "edge_221",
+      "from_node": "1828703077",
+      "to_node": "1828686784",
+      "weight": 514.28,
+      "type": "road"
+    },
+    {
+      "id": "edge_222",
+      "from_node": "1369615209",
+      "to_node": "3684809727",
+      "weight": 16.52,
+      "type": "road"
+    },
+    {
+      "id": "edge_223",
+      "from_node": "2539393906",
+      "to_node": "2539393939",
+      "weight": 97.58000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_224",
+      "from_node": "1828686716",
+      "to_node": "1828686813",
+      "weight": 65.49,
+      "type": "road"
+    },
+    {
+      "id": "edge_225",
+      "from_node": "1828686716",
+      "to_node": "1828686856",
+      "weight": 91.41,
+      "type": "road"
+    },
+    {
+      "id": "edge_226",
+      "from_node": "1828686716",
+      "to_node": "1828686763",
+      "weight": 57.269999999999996,
+      "type": "road"
+    },
+    {
+      "id": "edge_227",
+      "from_node": "12953936777",
+      "to_node": "12953936778",
+      "weight": 21.55,
+      "type": "road"
+    },
+    {
+      "id": "edge_228",
+      "from_node": "13149334413",
+      "to_node": "11166375159",
+      "weight": 237.32999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_229",
+      "from_node": "13149334413",
+      "to_node": "11271495546",
+      "weight": 34.18,
+      "type": "road"
+    },
+    {
+      "id": "edge_230",
+      "from_node": "2539393939",
+      "to_node": "11188043328",
+      "weight": 18.96,
+      "type": "road"
+    },
+    {
+      "id": "edge_231",
+      "from_node": "1828686741",
+      "to_node": "1828686793",
+      "weight": 86.41,
+      "type": "road"
+    },
+    {
+      "id": "edge_232",
+      "from_node": "1828686744",
+      "to_node": "1828686763",
+      "weight": 225.63,
+      "type": "road"
+    },
+    {
+      "id": "edge_233",
+      "from_node": "2539393945",
+      "to_node": "11188043328",
+      "weight": 10.51,
+      "type": "road"
+    },
+    {
+      "id": "edge_234",
+      "from_node": "2539393945",
+      "to_node": "2539393950",
+      "weight": 71.35,
+      "type": "road"
+    },
+    {
+      "id": "edge_235",
+      "from_node": "1828686746",
+      "to_node": "1828686856",
+      "weight": 105.78,
+      "type": "road"
+    },
+    {
+      "id": "edge_236",
+      "from_node": "1828686749",
+      "to_node": "1828686856",
+      "weight": 52.18,
+      "type": "road"
+    },
+    {
+      "id": "edge_237",
+      "from_node": "1828686749",
+      "to_node": "1828686813",
+      "weight": 57.35,
+      "type": "road"
+    },
+    {
+      "id": "edge_238",
+      "from_node": "1828686749",
+      "to_node": "11438499241",
+      "weight": 93.92999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_239",
+      "from_node": "1828686749",
+      "to_node": "1828686793",
+      "weight": 56.900000000000006,
+      "type": "road"
+    },
+    {
+      "id": "edge_240",
+      "from_node": "2539393950",
+      "to_node": "11188043326",
+      "weight": 10.21,
+      "type": "road"
+    },
+    {
+      "id": "edge_241",
+      "from_node": "1828686763",
+      "to_node": "1828686834",
+      "weight": 66.7,
+      "type": "road"
+    },
+    {
+      "id": "edge_242",
+      "from_node": "3114209849",
+      "to_node": "9925943087",
+      "weight": 166.26,
+      "type": "road"
+    },
+    {
+      "id": "edge_243",
+      "from_node": "1464112055",
+      "to_node": "3114209166",
+      "weight": 78.28,
+      "type": "road"
+    },
+    {
+      "id": "edge_244",
+      "from_node": "1464112055",
+      "to_node": "3114209171",
+      "weight": 164.48,
+      "type": "road"
+    },
+    {
+      "id": "edge_245",
+      "from_node": "1464112055",
+      "to_node": "7522222041",
+      "weight": 160.12,
+      "type": "road"
+    },
+    {
+      "id": "edge_246",
+      "from_node": "1828686784",
+      "to_node": "1828686834",
+      "weight": 20.19,
+      "type": "road"
+    },
+    {
+      "id": "edge_247",
+      "from_node": "1828686784",
+      "to_node": "1828686888",
+      "weight": 156.42000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_248",
+      "from_node": "6726032345",
+      "to_node": "6726032346",
+      "weight": 177.8,
+      "type": "road"
+    },
+    {
+      "id": "edge_249",
+      "from_node": "6726032346",
+      "to_node": "6726032347",
+      "weight": 143.04,
+      "type": "road"
+    },
+    {
+      "id": "edge_250",
+      "from_node": "1828686813",
+      "to_node": "7489303588",
+      "weight": 63.38,
+      "type": "road"
+    },
+    {
+      "id": "edge_251",
+      "from_node": "1828354461",
+      "to_node": "1828354477",
+      "weight": 27.25,
+      "type": "road"
+    },
+    {
+      "id": "edge_252",
+      "from_node": "9700506592",
+      "to_node": "9700506593",
+      "weight": 30.88,
+      "type": "road"
+    },
+    {
+      "id": "edge_253",
+      "from_node": "5540961262",
+      "to_node": "1969452927",
+      "weight": 8.49,
+      "type": "road"
+    },
+    {
+      "id": "edge_254",
+      "from_node": "5540961262",
+      "to_node": "11271495538",
+      "weight": 55.88,
+      "type": "road"
+    },
+    {
+      "id": "edge_255",
+      "from_node": "5540961262",
+      "to_node": "11271495540",
+      "weight": 14.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_256",
+      "from_node": "3684809725",
+      "to_node": "3684809727",
+      "weight": 82.03999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_257",
+      "from_node": "2444991493",
+      "to_node": "7488743845",
+      "weight": 91.94,
+      "type": "road"
+    },
+    {
+      "id": "edge_258",
+      "from_node": "2444991493",
+      "to_node": "2444991530",
+      "weight": 39.989999999999995,
+      "type": "road"
+    },
+    {
+      "id": "edge_259",
+      "from_node": "2444991493",
+      "to_node": "2444991595",
+      "weight": 122.25999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_260",
+      "from_node": "2444991496",
+      "to_node": "6761272663",
+      "weight": 812.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_261",
+      "from_node": "1464112150",
+      "to_node": "11380760385",
+      "weight": 116.24000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_262",
+      "from_node": "1464112150",
+      "to_node": "1464112031",
+      "weight": 154.28,
+      "type": "road"
+    },
+    {
+      "id": "edge_263",
+      "from_node": "7489303586",
+      "to_node": "7489303587",
+      "weight": 72.42,
+      "type": "road"
+    },
+    {
+      "id": "edge_264",
+      "from_node": "7489303587",
+      "to_node": "2539398776",
+      "weight": 50.06,
+      "type": "road"
+    },
+    {
+      "id": "edge_265",
+      "from_node": "7489303587",
+      "to_node": "2539398770",
+      "weight": 82.59,
+      "type": "road"
+    },
+    {
+      "id": "edge_266",
+      "from_node": "1828686888",
+      "to_node": "11878206714",
+      "weight": 114.52,
+      "type": "road"
+    },
+    {
+      "id": "edge_267",
+      "from_node": "1828686888",
+      "to_node": "2444991575",
+      "weight": 122.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_268",
+      "from_node": "1828686888",
+      "to_node": "1969485195",
+      "weight": 996.51,
+      "type": "road"
+    },
+    {
+      "id": "edge_269",
+      "from_node": "2444991530",
+      "to_node": "2444991549",
+      "weight": 364.46999999999997,
+      "type": "road"
+    },
+    {
+      "id": "edge_270",
+      "from_node": "2444991530",
+      "to_node": "11878206581",
+      "weight": 90.07,
+      "type": "road"
+    },
+    {
+      "id": "edge_271",
+      "from_node": "1828354479",
+      "to_node": "9990383180",
+      "weight": 26.99,
+      "type": "road"
+    },
+    {
+      "id": "edge_272",
+      "from_node": "10266995823",
+      "to_node": "11877088954",
+      "weight": 108.52000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_273",
+      "from_node": "11878206581",
+      "to_node": "11878206714",
+      "weight": 22.15,
+      "type": "road"
+    },
+    {
+      "id": "edge_274",
+      "from_node": "11187121300",
+      "to_node": "11052633482",
+      "weight": 44.35000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_275",
+      "from_node": "11187121300",
+      "to_node": "11187121299",
+      "weight": 80.93,
+      "type": "road"
+    },
+    {
+      "id": "edge_276",
+      "from_node": "10129706135",
+      "to_node": "10129706138",
+      "weight": 24.03,
+      "type": "road"
+    },
+    {
+      "id": "edge_277",
+      "from_node": "9981234349",
+      "to_node": "13353278758",
+      "weight": 29.31,
+      "type": "road"
+    },
+    {
+      "id": "edge_278",
+      "from_node": "9981234350",
+      "to_node": "13353278758",
+      "weight": 101.97,
+      "type": "road"
+    },
+    {
+      "id": "edge_279",
+      "from_node": "10156270808",
+      "to_node": "1969452927",
+      "weight": 24.82,
+      "type": "road"
+    },
+    {
+      "id": "edge_280",
+      "from_node": "10156270808",
+      "to_node": "10156270806",
+      "weight": 57.89,
+      "type": "road"
+    },
+    {
+      "id": "edge_281",
+      "from_node": "11243459809",
+      "to_node": "11188084345",
+      "weight": 108.53999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_282",
+      "from_node": "11243459809",
+      "to_node": "11188043324",
+      "weight": 123.92000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_283",
+      "from_node": "11166375159",
+      "to_node": "9933536962",
+      "weight": 197.14999999999998,
+      "type": "road"
+    },
+    {
+      "id": "edge_284",
+      "from_node": "13353278758",
+      "to_node": "13353278759",
+      "weight": 43.04,
+      "type": "road"
+    },
+    {
+      "id": "edge_285",
+      "from_node": "11052633482",
+      "to_node": "1969452931",
+      "weight": 117.92999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_286",
+      "from_node": "11052633482",
+      "to_node": "11052633498",
+      "weight": 295.17,
+      "type": "road"
+    },
+    {
+      "id": "edge_287",
+      "from_node": "11188043313",
+      "to_node": "11188084345",
+      "weight": 119.52000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_288",
+      "from_node": "11235669562",
+      "to_node": "1464088412",
+      "weight": 31.54,
+      "type": "road"
+    },
+    {
+      "id": "edge_289",
+      "from_node": "11188043324",
+      "to_node": "11188043326",
+      "weight": 65.35,
+      "type": "road"
+    },
+    {
+      "id": "edge_290",
+      "from_node": "11188043326",
+      "to_node": "11188043328",
+      "weight": 71.75,
+      "type": "road"
+    },
+    {
+      "id": "edge_291",
+      "from_node": "11188043328",
+      "to_node": "11188084343",
+      "weight": 435.81999999999994,
+      "type": "road"
+    },
+    {
+      "id": "edge_292",
+      "from_node": "9990383180",
+      "to_node": "9990383179",
+      "weight": 94.55,
+      "type": "road"
+    },
+    {
+      "id": "edge_293",
+      "from_node": "9990383180",
+      "to_node": "3114209213",
+      "weight": 38.42,
+      "type": "road"
+    },
+    {
+      "id": "edge_294",
+      "from_node": "3114209171",
+      "to_node": "3114209186",
+      "weight": 156.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_295",
+      "from_node": "3114209171",
+      "to_node": "3114209166",
+      "weight": 234.29000000000002,
+      "type": "road"
+    },
+    {
+      "id": "edge_296",
+      "from_node": "11188084346",
+      "to_node": "11188084345",
+      "weight": 9.59,
+      "type": "road"
+    },
+    {
+      "id": "edge_297",
+      "from_node": "11188084346",
+      "to_node": "3779270431",
+      "weight": 116.84,
+      "type": "road"
+    },
+    {
+      "id": "edge_298",
+      "from_node": "4415716993",
+      "to_node": "4462476932",
+      "weight": 80.1,
+      "type": "road"
+    },
+    {
+      "id": "edge_299",
+      "from_node": "4415716993",
+      "to_node": "1828385180",
+      "weight": 237.48,
+      "type": "road"
+    },
+    {
+      "id": "edge_300",
+      "from_node": "10578153117",
+      "to_node": "10578153118",
+      "weight": 14.82,
+      "type": "road"
+    },
+    {
+      "id": "edge_301",
+      "from_node": "10578153118",
+      "to_node": "7522222025",
+      "weight": 542.7599999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_302",
+      "from_node": "9933536956",
+      "to_node": "9933536957",
+      "weight": 39.28,
+      "type": "road"
+    },
+    {
+      "id": "edge_303",
+      "from_node": "9933536956",
+      "to_node": "10538673886",
+      "weight": 74.5,
+      "type": "road"
+    },
+    {
+      "id": "edge_304",
+      "from_node": "9933536957",
+      "to_node": "9933536962",
+      "weight": 70.09,
+      "type": "road"
+    },
+    {
+      "id": "edge_305",
+      "from_node": "9933536957",
+      "to_node": "9933536959",
+      "weight": 103.92,
+      "type": "road"
+    },
+    {
+      "id": "edge_306",
+      "from_node": "9933536959",
+      "to_node": "9933536962",
+      "weight": 37.95,
+      "type": "road"
+    },
+    {
+      "id": "edge_307",
+      "from_node": "9933536959",
+      "to_node": "9933536961",
+      "weight": 65.0,
+      "type": "road"
+    },
+    {
+      "id": "edge_308",
+      "from_node": "10584112884",
+      "to_node": "3114209173",
+      "weight": 36.98,
+      "type": "road"
+    },
+    {
+      "id": "edge_309",
+      "from_node": "10584112884",
+      "to_node": "10584112885",
+      "weight": 164.68,
+      "type": "road"
+    },
+    {
+      "id": "edge_310",
+      "from_node": "10584112884",
+      "to_node": "3114209177",
+      "weight": 50.98,
+      "type": "road"
+    },
+    {
+      "id": "edge_311",
+      "from_node": "10584112885",
+      "to_node": "3114209154",
+      "weight": 109.79,
+      "type": "road"
+    },
+    {
+      "id": "edge_312",
+      "from_node": "10584112885",
+      "to_node": "3114209160",
+      "weight": 108.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_313",
+      "from_node": "11380760385",
+      "to_node": "3114209186",
+      "weight": 96.27000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_314",
+      "from_node": "11380760385",
+      "to_node": "11380760389",
+      "weight": 93.23,
+      "type": "road"
+    },
+    {
+      "id": "edge_315",
+      "from_node": "11271495538",
+      "to_node": "1969452939",
+      "weight": 91.75999999999999,
+      "type": "road"
+    },
+    {
+      "id": "edge_316",
+      "from_node": "11271495538",
+      "to_node": "11271495540",
+      "weight": 57.290000000000006,
+      "type": "road"
+    },
+    {
+      "id": "edge_317",
+      "from_node": "11271495542",
+      "to_node": "11271495540",
+      "weight": 30.64,
+      "type": "road"
+    },
+    {
+      "id": "edge_318",
+      "from_node": "11271495542",
+      "to_node": "11271495548",
+      "weight": 23.89,
+      "type": "road"
+    },
+    {
+      "id": "edge_319",
+      "from_node": "11271495540",
+      "to_node": "11271495548",
+      "weight": 11.71,
+      "type": "road"
+    },
+    {
+      "id": "edge_320",
+      "from_node": "11271495548",
+      "to_node": "11271495546",
+      "weight": 30.4,
+      "type": "road"
+    },
+    {
+      "id": "edge_321",
+      "from_node": "11271495548",
+      "to_node": "1969452927",
+      "weight": 13.51,
+      "type": "road"
+    },
+    {
+      "id": "edge_322",
+      "from_node": "11271495546",
+      "to_node": "1969452927",
+      "weight": 30.630000000000003,
+      "type": "road"
+    },
+    {
+      "id": "edge_323",
+      "from_node": "3114209160",
+      "to_node": "7522222041",
+      "weight": 82.32,
+      "type": "road"
+    },
+    {
+      "id": "edge_324",
+      "from_node": "3114209160",
+      "to_node": "7522222042",
+      "weight": 167.01,
+      "type": "road"
+    },
+    {
+      "id": "edge_325",
+      "from_node": "3114209160",
+      "to_node": "3114209166",
+      "weight": 160.67,
+      "type": "road"
+    },
+    {
+      "id": "edge_326",
+      "from_node": "3114209166",
+      "to_node": "3114209173",
+      "weight": 74.8,
+      "type": "road"
+    },
+    {
+      "id": "edge_327",
+      "from_node": "3114209173",
+      "to_node": "3114209180",
+      "weight": 133.6,
+      "type": "road"
+    },
+    {
+      "id": "edge_328",
+      "from_node": "3114209180",
+      "to_node": "3114209183",
+      "weight": 135.47,
+      "type": "road"
+    },
+    {
+      "id": "edge_329",
+      "from_node": "3114209180",
+      "to_node": "3114209196",
+      "weight": 192.23,
+      "type": "road"
+    },
+    {
+      "id": "edge_330",
+      "from_node": "3114209183",
+      "to_node": "3114209186",
+      "weight": 107.9,
+      "type": "road"
+    },
+    {
+      "id": "edge_331",
+      "from_node": "3114209183",
+      "to_node": "3114209196",
+      "weight": 58.1,
+      "type": "road"
+    },
+    {
+      "id": "edge_332",
+      "from_node": "3114209196",
+      "to_node": "7522222034",
+      "weight": 240.08,
+      "type": "road"
+    },
+    {
+      "id": "edge_333",
+      "from_node": "7522222039",
+      "to_node": "7522222040",
+      "weight": 64.91,
+      "type": "road"
+    },
+    {
+      "id": "edge_334",
+      "from_node": "7522222040",
+      "to_node": "7522222042",
+      "weight": 122.36000000000001,
+      "type": "road"
+    },
+    {
+      "id": "edge_335",
+      "from_node": "7522222041",
+      "to_node": "7522222042",
+      "weight": 83.32000000000001,
+      "type": "road"
+    }
+  ]
+}

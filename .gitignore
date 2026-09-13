@@ -20,3 +20,10 @@ pip-log.txt
 # OS
 .DS_Store
 Thumbs.db
+
+# IDEs and Logs
+.vscode/
+.idea/
+*.log
+backend/cache/
+backend/cache/

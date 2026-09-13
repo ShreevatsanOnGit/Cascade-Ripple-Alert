@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cascading Failure Simulator</title>
+    <!-- Load vis-network for the graph -->
+    <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+            background-color: #1e1e1e;
+            color: #ffffff;
+        }
+        #sidebar {
+            width: 300px;
+            padding: 20px;
+            background-color: #2d2d2d;
+            box-shadow: 2px 0 5px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+        }
+        #network-container {
+            flex-grow: 1;
+            height: 100%;
+        }
+        h2 { font-size: 1.2rem; margin-top: 0; color: #4da6ff; }
+        h3 { font-size: 1rem; margin-top: 20px; border-bottom: 1px solid #444; padding-bottom: 5px;}
+        .control-group { margin-bottom: 15px; }
+        label { display: block; margin-bottom: 5px; cursor: pointer; }
+        button {
+            background-color: #ff4d4d;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        button:hover { background-color: #ff3333; }
+        button#reset-btn { background-color: #4da6ff; margin-top: 10px;}
+        button#reset-btn:hover { background-color: #3399ff; }
+        #stats { margin-top: 20px; font-size: 0.9rem; color: #aaa; }
+        .legend-item { display: flex; align-items: center; margin-bottom: 5px; font-size: 0.9rem;}
+        .color-box { width: 15px; height: 15px; margin-right: 10px; border-radius: 3px;}
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <h2>Cascading Failure Simulator</h2>
+        <p style="font-size: 0.85rem; color: #bbb;">Select a critical asset to fail and observe the cascading effects.</p>
+        
+        <h3>Trigger Failures</h3>
+        <div id="checkboxes" class="control-group">
+            <!-- Checkboxes injected via JS -->
+        </div>
+        
+        <button onclick="runSimulation()">Run Simulation</button>
+        <button id="reset-btn" onclick="resetGraph()">Reset Network</button>
+
+        <h3>System Status</h3>
+        <div id="stats">
+            System Normal.<br>0 / 9 Assets Failed.
+        </div>
+
+        <h3>Legend</h3>
+        <div class="legend-item"><div class="color-box" style="background: #ffcc00;"></div> Power</div>
+        <div class="legend-item"><div class="color-box" style="background: #3399ff;"></div> Water</div>
+        <div class="legend-item"><div class="color-box" style="background: #cc99ff;"></div> Comm</div>
+        <div class="legend-item"><div class="color-box" style="background: #ff9999;"></div> Hospital/Emergency</div>
+        <div class="legend-item"><div class="color-box" style="background: #a3a3a3;"></div> Public Grid</div>
+        <div class="legend-item" style="margin-top:10px;"><div class="color-box" style="background: #ff0000; box-shadow: 0 0 5px red;"></div> <b>FAILED</b></div>
+    </div>
+
+    <div id="network-container"></div>
+
+    <script>
+        // 1. Define Network Data
+        const nodesData = [
+            { id: 1, label: 'Power Plant Alpha', group: 'Power', color: '#ffcc00' },
+            { id: 2, label: 'Substation North', group: 'Power', color: '#ffcc00' },
+            { id: 3, label: 'Substation South', group: 'Power', color: '#ffcc00' },
+            { id: 4, label: 'Water Treatment A', group: 'Water', color: '#3399ff' },
+            { id: 5, label: 'Pumping Station 1', group: 'Water', color: '#3399ff' },
+            { id: 6, label: 'Telecom Hub X', group: 'Comm', color: '#cc99ff' },
+            { id: 7, label: 'City Hospital', group: 'Hospital', color: '#ff9999' },
+            { id: 8, label: 'Fire Station 1', group: 'Hospital', color: '#ff9999' },
+            { id: 9, label: 'Residential Grid A', group: 'Public', color: '#a3a3a3' }
+        ];
+
+        const edgesData = [
+            { from: 1, to: 2 }, { from: 1, to: 3 },
+            { from: 2, to: 4 }, { from: 2, to: 6 }, { from: 2, to: 7 },
+            { from: 3, to: 5 }, { from: 3, to: 8 }, { from: 3, to: 9 },
+            { from: 4, to: 5 },
+            { from: 5, to: 7 }, { from: 5, to: 9 },
+            { from: 6, to: 7 }, { from: 6, to: 8 }, 
+            { from: 6, to: 1 } // Circular dependency
+        ];
+
+        // Create datasets
+        const nodes = new vis.DataSet(nodesData.map(n => ({...n, defaultColor: n.color})));
+        const edges = new vis.DataSet(edgesData);
+
+        // Populate Checkboxes
+        const checkboxContainer = document.getElementById('checkboxes');
+        nodesData.forEach(node => {
+            const label = document.createElement('label');
+            label.innerHTML = `<input type="checkbox" value="${node.id}" id="chk-${node.id}"> ${node.label}`;
+            checkboxContainer.appendChild(label);
+        });
+
+        // 2. Initialize Graph
+        const container = document.getElementById('network-container');
+        const data = { nodes: nodes, edges: edges };
+        const options = {
+            nodes: {
+                shape: 'dot',
+                size: 20,
+                font: { color: '#ffffff', size: 14 }
+            },
+            edges: {
+                width: 2,
+                color: '#aaaaaa',
+                arrows: 'to'
+            },
+            physics: {
+                forceAtlas2Based: { gravitationalConstant: -50, springLength: 100 },
+                minVelocity: 0.75,
+                solver: 'forceAtlas2Based'
+            }
+        };
+        const network = new vis.Network(container, data, options);
+
+        // 3. Simulation Logic
+        function runSimulation() {
+            // Get initial failures
+            let failed = new Set();
+            nodesData.forEach(node => {
+                if(document.getElementById(`chk-${node.id}`).checked) {
+                    failed.add(node.id);
+                }
+            });
+
+            // Cascade Logic (If any incoming dependency fails, the node fails)
+            let newFailures = true;
+            const allEdges = edges.get();
+            const allNodes = nodes.getIds();
+
+            while(newFailures) {
+                newFailures = false;
+                for(let nodeId of allNodes) {
+                    if(!failed.has(nodeId)) {
+                        // Check incoming edges
+                        let incoming = allEdges.filter(e => e.to === nodeId);
+                        for(let e of incoming) {
+                            if(failed.has(e.from)) {
+                                failed.add(nodeId);
+                                newFailures = true;
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+
+            // 4. Update Visuals
+            updateGraphVisuals(failed);
+        }
+
+        function resetGraph() {
+            nodesData.forEach(node => document.getElementById(`chk-${node.id}`).checked = false);
+            updateGraphVisuals(new Set());
+        }
+
+        function updateGraphVisuals(failedSet) {
+            let updatedNodes = [];
+            let updatedEdges = [];
+
+            // Update Nodes
+            nodes.getIds().forEach(nodeId => {
+                const node = nodes.get(nodeId);
+                if(failedSet.has(nodeId)) {
+                    updatedNodes.push({
+                        id: nodeId, 
+                        color: { background: '#ff0000', border: '#aa0000' },
+                        label: 'FAILED: \n' + node.label.replace('FAILED: \n', '')
+                    });
+                } else {
+                    updatedNodes.push({
+                        id: nodeId, 
+                        color: node.defaultColor,
+                        label: node.label.replace('FAILED: \n', '')
+                    });
+                }
+            });
+
+            // Update Edges
+            edges.getIds().forEach(edgeId => {
+                const edge = edges.get(edgeId);
+                if(failedSet.has(edge.from)) {
+                    updatedEdges.push({id: edgeId, color: '#ff0000'});
+                } else {
+                    updatedEdges.push({id: edgeId, color: '#aaaaaa'});
+                }
+            });
+
+            nodes.update(updatedNodes);
+            edges.update(updatedEdges);
+
+            // Update Stats text
+            const stats = document.getElementById('stats');
+            if(failedSet.size > 0) {
+                const percent = ((failedSet.size / nodesData.length) * 100).toFixed(0);
+                stats.innerHTML = `<span style="color:#ff4d4d; font-weight:bold;">System Degraded (${percent}%)</span><br>${failedSet.size} / ${nodesData.length} Assets Failed.`;
+            } else {
+                stats.innerHTML = `<span style="color:#4da6ff; font-weight:bold;">System Normal.</span><br>0 / ${nodesData.length} Assets Failed.`;
+            }
+        }
+    </script>
+</body>
+</html>
